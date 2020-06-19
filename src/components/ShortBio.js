@@ -10,7 +10,7 @@ function ShortBio({ post, hideAvatar, hideAuthor, hideDate, hideReadTime }) {
   return (
     <StaticQuery
       query={shortBioQuery}
-      render={data => {
+      render={(data) => {
         const { author } = data.site.siteMetadata
         const { avatar } = data
 
@@ -86,7 +86,7 @@ ShortBio.defaultProps = {
 
 const shortBioQuery = graphql`
   query ShortBioQuery {
-    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/WildCards-chainlink.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

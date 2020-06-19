@@ -14,7 +14,7 @@ function RecentPosts() {
   return (
     <StaticQuery
       query={recentPostsQuery}
-      render={data => {
+      render={(data) => {
         const posts = data.allMarkdownRemark.edges
 
         return (
@@ -26,7 +26,7 @@ function RecentPosts() {
               flexWrap: "wrap",
             }}
           >
-            {posts.map(p => (
+            {posts.map((p) => (
               <div key={p.node.fields.slug}>
                 <PostCard data={p.node} />
               </div>
@@ -40,7 +40,7 @@ function RecentPosts() {
 
 const recentPostsQuery = graphql`
   query RecentPostsQuery {
-    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/WildCards-chainlink.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

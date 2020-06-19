@@ -80,7 +80,7 @@ class BlogPostTemplate extends React.Component {
             >
               Responses
             </p> */}
-            {/* <div
+          {/* <div
               style={{
                 backgroundColor: "#ffffff",
                 padding: rhythm(1),
@@ -108,7 +108,7 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
-    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/WildCards-chainlink.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

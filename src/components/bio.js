@@ -15,7 +15,7 @@ function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
-      render={data => {
+      render={(data) => {
         const { author } = data.site.siteMetadata
         const { twitter } = data.site.siteMetadata.social
         const { instagram } = data.site.siteMetadata.social
@@ -49,7 +49,7 @@ function Bio() {
                 Lover of bamboo shoots, foraging and shaddy branches
                 <br />
                 You can connect with me via{" "}
-                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or {" "}
+                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or{" "}
                 <a href={`https://facebook.com/wildcardscrypto`}>Facebook</a>.
               </p>
             </div>
@@ -62,7 +62,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/WildCards-chainlink.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed
