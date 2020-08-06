@@ -1,4 +1,547 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 May 2020 13:28:59 GMT</lastBuildDate><item><title><![CDATA[Community governance through quadratic voting at Italy's first Ethereum hackathon [Remote edition]]]></title><description><![CDATA[TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by Glen the dragon will go to a conservation as…]]></description><link>https://blog.wildcards.world/ethturin/</link><guid isPermaLink="false">https://blog.wildcards.world/ethturin/</guid><pubDate>Mon, 04 May 2020 10:12:03 GMT</pubDate><content:encoded>&lt;p&gt;TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by &lt;a href=&quot;https://wildcards.world/#details/Glen&quot;&gt;Glen the dragon&lt;/a&gt; will go to a conservation as voted by the wildcards community [on-chain quadratic voting].&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Aug 2020 11:09:29 GMT</lastBuildDate><item><title><![CDATA[How to keep sharks and people safe?]]></title><description><![CDATA[How to keep sharks and people safe? August 2004: “Shark!” a surfer screamed. Chaos and confusion erupted. Whilst signalling a warning…]]></description><link>https://blog.wildcards.world/how-to-keep-sharks-and-people-safe/</link><guid isPermaLink="false">https://blog.wildcards.world/how-to-keep-sharks-and-people-safe/</guid><pubDate>Thu, 06 Aug 2020 16:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;How to keep sharks and people safe?&lt;/h1&gt;
+&lt;p&gt;August 2004: “Shark!” a surfer screamed. Chaos and confusion erupted. Whilst signalling a warning through wild arm gestures and shouting to those still in the water, panicked surfers frantically clawed to the safety of the shore. Hysteria spread through the waves packed with surfers along Muizenberg Beach, a 20km popular surfing beach in Cape Town, South Africa. At the time, big wave surfer Greg Bertish was teaching some friends to surf. When the warning finally reached them, they scrambled to join the mass exodus. Once Greg and his friends were safely on the sand, it took a further quarter of an hour for the remaining surfers to heed the warning and get out of the water.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is killing sharks the only solution?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Months after the incident Greg’s thoughts kept circling back to that shark scare day, and he ruminated over the series of shark incidents that had happened that year. Potential solutions to mitigate human shark interactions were continuously discussed in 2004. Sadly, all these “solutions” were focussed on culling sharks, the logic being that fewer sharks would equal fewer shark incidents. The culling methods included shooting sharks, deploying shark nets (which not only snare sharks but also kill large marine animals including dolphins, turtles and even whales) and deploying drum lines (large baited hooks which are also notorious for indiscriminately killing marine life). Human shark interaction mitigation discussions dragged on and on until Greg took the matter into his own hands. He came up with a solution that drew on his deep love, connection, and knowledge of the ocean as well as his lifesaving experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*GvleYu1a969CNPIN&quot; alt=&quot;(Photograph by Gerald Schömbs)&quot;&gt;&lt;em&gt;(Photograph by Gerald Schömbs)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Military service in a speedo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During his compulsory military service, Greg had joined lifesaving. This allowed him to spend some of his guard duty in a speedo, at the beach, during his days of National Service. From his brother’s work with fishermen, he knew that scouts were sent up the mountain behind Muizenberg beach to locate where the schools of fish were and that the scouts occasionally saw big sharks cruising into the bay. From this knowledge Greg came up with the prototype for “Shark Spotters”, a non-lethal solution to mitigate human shark interactions. The City of Cape Town was initially skeptical of the idea, but Greg pushed ahead with it anyway.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The not so legal start to Shark Spotters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the dead of night, Greg and his brother-in-law slinked down to the toilet block at Muizenberg beach and illegally bolted an old war siren and a flag pole to it. He and friends, Dave and Fiona Chudleigh from Surf Shack, initially recruited Monwabisi, an unemployed lifeguard, and Rasta, a car guard, as the first two members of the Shark Spotters crew. Monwabisi was stationed on the mountain with binoculars looking out for sharks and the Rasta on the beach. When a shark was spotted Monwabisi would radio Rasta, who would then sound the siren and raise a shark flag.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*Kq13ZB2W_mE5ux5W&quot; alt=&quot;© Sean Geer&quot;&gt;&lt;em&gt;© Sean Geer&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From humble beginnings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project has evolved and expanded immensely over the years. Shark Spotters now covers four beaches all year round and six beaches over the summer season. In summer great white sharks tend to spend more time near the shore feeding on fish, rays and smaller shark species as their winter food supply of baby seals learn predator avoidance strategies and become harder to catch. Summer also brings hoards of swimmers and surfers to the beaches, and this is where the potential for conflict begins. Shark Spotters have a colour-coded flag system to indicate how recently a shark was seen, as well as how likely a shark being able to be detected is, which is largely based on the water and weather conditions. This non-lethal shark interaction mitigation method is the first of its kind, and the City of Cape Town is now fully onboard with the project and together with Save Our Seas Foundation provide the majority of their funding. Shark Spotters employs over 40 people from previously disadvantaged communities. These employees are trained in first aid and many educate their communities about sharks and shark activity.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2400/0*ZA8mYElLPSOloUUg&quot; alt=&quot;The Shark Spotters team © Marike Herselman.&quot;&gt;&lt;em&gt;The Shark Spotters team © Marike Herselman.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We protect only what we understand&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shark Spotters educates people about sharks and clarifies why we, as humans, need them. Sharks keep our oceans balanced and healthy by maintaining species below them in the food chain. Shark Spotters provides factual, non-sensational information about sharks so that people can make informed decisions about entering the sea.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2048/0*foZTtt4aHfS_-rFo&quot; alt=&quot;The Shark information centre at Muizenberg beach © Save Our Seas Foundation.&quot;&gt;&lt;em&gt;The Shark information centre at Muizenberg beach © Save Our Seas Foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Shark Spotters’ research helps answer questions like “Where do sharks go?”, “How do sharks behave in different conditions and seasons?”, and “How many sharks are there?” They also test methods using innovative technology and potential solutions to mitigating human shark interactions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*xwQI2cIdDrb6ljHC&quot; alt=&quot;Photograph provided by Greg Bertish&quot;&gt;&lt;em&gt;Photograph provided by Greg Bertish&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who is really under attack: Sharks or people?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sharks keep our oceans balanced and healthy. We need these magnificent creatures alive but since you started reading this article, 1198 sharks have been killed. They are slow-growing, long-living creatures and many shark species can’t reproduce as fast as they are being killed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2138/0*3FKDIv6Y4VT4IUXd&quot; alt=&quot;Photograph by Elianne Dipp&quot;&gt;&lt;em&gt;Photograph by Elianne Dipp&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shark Spotters partner with Wildcards!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shark Spotters first wildcard Sihle the great white shark will go live soon! This card has a captivating fact-filled story about her. In the future more sharks the Shark Spotters protects will be added to the Wildcards kingdom to benefit the Shark Spotters.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2832/1*chAS1YeylQqOryX9PHKxJQ.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Do you want to actively get involved with protecting wildlife? If so you can publicly buy one of these wildcards online, which will make you the guardian of that wildcard animal. When you buy a wildcard, you must also set the price you are willing to sell it for. Every month, as the guardian of a wildcard you will give a specified portion of the selling price you set, to that animal’s representative conservation agency, in this case, the Shark Spotters. At any point, someone can buy the wildcard from you, at the selling price you specified. When someone buys the wildcard from you they must set a selling price. The new guardian of the wildcard is then responsible for giving the new monthly subscription. And so, the cycle continues the generation of funds.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/5116/1*w2GiL4659Aja_n0KGcybKg.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Wildcards is ecstatic about connecting funders with conservation agencies having a real world impact on the protection of wild animals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To find out more about Wildcards check out:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.wildcards.world/wildcards-intro/&quot;&gt;Wildcards: an unprecedented means of funding conservation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcards.conservation&quot;&gt;@wildcards.conservation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rio Button&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wildcards - How can we protect it, if we don’t know where it is?]]></title><description><![CDATA[How can we protect it, if we don’t know where it is?  How can we protect it, if we don’t know where it is? Leveraging a 2000 strong army of…]]></description><link>https://blog.wildcards.world/how-can-we-protect-it/</link><guid isPermaLink="false">https://blog.wildcards.world/how-can-we-protect-it/</guid><pubDate>Tue, 21 Jul 2020 15:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;How can we protect it, if we don’t know where it is?&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/30f7b70f099010086b765684f96964a3/2cefc/bdi.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAAB2klEQVQozx1RO2/TUBTOL2VkZ0BiYesEA0ua5t5z7sPXvo7tOLbr2Hk5dh5N2pS0JKhNkCgtUcWChPqQWBiQcDjj0ffpe1UIIVww7UhDM4MDQxCSBIkxvoidyBSScYmmBWGiioUb9uTyurtcxW6om4FdoUCRs1aopEJA6BatL5vZTcfbjZLr7WS0iL1jSYEYCoOOCtp8VBidTEzmveffd5VSWSrOEGuHR0zS4Unncfb5zmpPDuX3vLhcDeOhyk8d51iGPXP6sRlFwva5oXgUuXuydox04EuJXLPtfPK0uHlY3/9cf/273V3NM9tX/TxsyKok1VRVJyd2GbBWq7naKslUKHZy2c7nXpV+GEhpsrejyNy48UKbt7NhK6AH79/5r99MX76YHbzqFwqQAAdC6hWAMjTpjoMfT6vReTxoNnaZ+JW5z93+Y5ZcnLU7uYsSUo+f9WH5SSsLKKF1QoDSCqWUC4hSe3t/ur7N45ZxNQweEu/PLPnW9iIP7VBmI28w97Ung9jyLODsCP/f3jYyKPmGllFXNxyhIjVNGhsTC42mjWFqjhdOMxZOUymTCSShZ6WR39DmXrnsrBwMkAIQxmk5jODgMMB6nQnA/adO9mZJiSnR5TQGR8nwH/feacOBkJmJAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;bdi&quot;
+        title=&quot;&quot;
+        src=&quot;/static/30f7b70f099010086b765684f96964a3/00d43/bdi.png&quot;
+        srcset=&quot;/static/30f7b70f099010086b765684f96964a3/63868/bdi.png 250w,
+/static/30f7b70f099010086b765684f96964a3/0b533/bdi.png 500w,
+/static/30f7b70f099010086b765684f96964a3/00d43/bdi.png 1000w,
+/static/30f7b70f099010086b765684f96964a3/2cefc/bdi.png 1400w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;How can we protect it, if we don’t know where it is?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Leveraging a 2000 strong army of wildly passionate citizen scientists to track biodiversity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;One month there are millions of pinkie sized dragonflies zooming around the Maldives, the next month every last one is gone. And this happens year after year.&lt;/p&gt;
+&lt;p&gt;We know that dragonflies need to lay their eggs in freshwater in order to reproduce, but the Maldives is made up of sandbanks and has no surface freshwater which brings us to the question: where are these dragonflies laying their eggs?&lt;/p&gt;
+&lt;p&gt;A curious scientist in the Maldives got his friends in the Seychelles, India, and Africa to record the dates of when they saw swarms of dragonflies. From the dates they gathered, the scientist suspected that the little dragonflies were doing massive migrations over the Indian ocean. Further research revealed this was indeed true, and that an individual Wandering Glider dragonfly (&lt;em&gt;Pantala flavescens&lt;/em&gt;) can fly 6,000 km without landing. This is the longest migration of any insect! Over four generations these little Wandering Glider dragonflies do an annual tag-team round-trip of 18,000 km from India to East Africa, then South Africa and back again along the same route.&lt;/p&gt;
+&lt;p&gt;Sadly, not all species movements are seasonal. Not all species that disappear from an area will return, some will vanish forever. Changes in climate, a compromised or destroyed habitat, or invasion by a rival, alien species can cause an entire species to become extinct.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2048/0*m-L1RvH_G8go5GCI&quot; alt=&quot;This is one of the 1054 records of Wandering Glider dragonflies (Pantala flavescens) logged in the Biodiversity and Development Institute’s Virtual Museum. This photo of a Wandering Glider was taken in KwaZulu-Natal, South Africa, in 2009 by citizen scientist G Diedericks.&quot;&gt;&lt;em&gt;This is one of the 1054 records of Wandering Glider dragonflies (Pantala flavescens) logged in the Biodiversity and Development Institute’s Virtual Museum. This photo of a Wandering Glider was taken in KwaZulu-Natal, South Africa, in 2009 by citizen scientist G Diedericks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 year old safeguarding 200 years of data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Though only 2 years old, South Africa’s &lt;a href=&quot;https://wildcards.world/#org/bdi&quot;&gt;Biodiversity and Development Institute&lt;/a&gt; (BDI) holds detailed databases that have recorded sightings of organisms dating as far back as 1726, for groups of organisms, including dragonflies, birds, mushrooms, fish, scorpions, frogs, trees and many more. All their records are neatly digitally stored and organized in the Virtual Museum. This data is vital as it allows the movement of species to be tracked, enabling early detection of changes that are out of line with natural cycles. They are positioned to sound the alarm and, if need be, initiate efforts to quickly haul species away from the precipice of extinction. Already, the BDI has detected a westward range shift in a number of butterfly species. But it’s not all about recording the demise of species and frantically trying to prevent it. For the BDI, it is also about detecting the recovery of species.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*UyBINMi-Sc668LuV&quot; alt=&quot;African Blue Pansy’s (*Junonia orithya madagascariensis*) is one of the butterfly species whose distribution is shifting west. This photo of an African Blue Pansy’s was taken in KwaZulu-Natal, South Africa, in 2008 and logged by citizen scientists I.C. Sharp &amp;#x26; A. Sharp.&quot;&gt;&lt;em&gt;African Blue Pansy’s (&lt;/em&gt;Junonia orithya madagascariensis&lt;em&gt;) is one of the butterfly species whose distribution is shifting west. This photo of an African Blue Pansy’s was taken in KwaZulu-Natal, South Africa, in 2008 and logged by citizen scientists I.C. Sharp &amp;#x26; A. Sharp.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A conservation success story: Yes, they exist!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;African Black Oystercatchers, endemic shorebirds of southern Africa with their glossy black plumage and bright red bill and legs, weren’t doing so well two decades ago; there were estimated to be only 6000 individuals left. The BDI researchers are helping to continue African Black Oystercatchers counts and breeding monitoring on Robben Island. In order to reduce disturbance when monitoring nests the BDI even developed apps to optimise data collection time. From the data they collected, the BDI has documented a four-fold increase in the number of birds on the island since population monitoring began 20 years ago and African Black Oystercatchers are once again a common sight along southern African shores.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2290/1*duzSa3FwAk-y3LXzFBmN6g.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What does an emeritus stats professor, a tech entrepreneur, and an ecologist have in common?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, a love of conservation, because together they direct the Biodiversity and Development Institute. Along with their researchers and interns, they lead a dedicated army of more than 2000 committed citizen scientists who are distributed across Africa. These citizen scientists typically snap photos of organisms and upload them with details regarding where and when they found it. Some citizen scientists also ring birds for tracking and record details about the birds’ condition, size, weight, and moult stage (which is very useful in understanding how climate change is affecting their natural cycles). Meanwhile, behind the scenes, the BDI works tirelessly to manage and analyse the data they collect and add historical records to their databases. The BDI also does something else. Something really incredible…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We protect only what we love, we love only what we understand, but we can only be motivated to understand it if we know it’s there…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The BDI encourages people to open their eyes and truly notice and appreciate the incredible life around them. By engaging people’s fascination with nature, people are more likely to value and protect it. This “nature” doesn’t only refer to the great outdoors, it is also about identifying the gecko on your kitchen ceiling, the insect in your flowerpot, and the birds drinking nectar from your flowers, especially during 2020’s lockdown. The BDI is seeing more and more entries like these and these “at home” entries are helping them understand how wildlife uses urban spaces better.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/4000/0*3noc0i1GG1kBVCYL.jpg&quot; alt=&quot;While locked down in the Western Cape, South Africa citizen scientist G.J. Begemann saw this Amethyst Sunbird (Nectarinia amethystina) and logged in the Virtual Musem.&quot;&gt;&lt;em&gt;While locked down in the Western Cape, South Africa citizen scientist G.J. Begemann saw this Amethyst Sunbird (Nectarinia amethystina) and logged in the Virtual Musem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The BDI is always fueling curiosity and is available to engage with questions, big and small. They constantly host events and keep their community of citizen scientists up to date with newsletters about new developments. The First BDI Citizen Scientist Conference took place in the Karoo Gariep Nature Reserve in February 2020. Since the COVID-19 lockdown, the BDI has initiated Citizen Scientist Hours and events using the Zoom platform. These have been enthusiastically attended by citizen scientists from all over Africa.&lt;/p&gt;
+&lt;p&gt;The BDI believes the most important thing about citizen science is the impact that participation has on those involved and the scientific value of the data, and the data’s value for conservation planning and priority setting. Participation in projects helps to make people alert to changes in habitats and fosters civic awareness, especially as the places where they used to find birds and butterflies disappear. The BDI aims to strengthen the development of groups of people who are aware of the importance and value of the environment, and who can be ambassadors for biodiversity in their communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BDI partners with Wildcards!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;New wildcards have been launched to raise funds for the BDI! They are &lt;a href=&quot;https://wildcards.world/#details/20&quot;&gt;Abo the African Black Oystercatcher&lt;/a&gt;, &lt;a href=&quot;https://wildcards.world/#details/21&quot;&gt;Whacky Cappy the Capped Wheatear&lt;/a&gt;, and &lt;a href=&quot;https://wildcards.world/#details/23&quot;&gt;Charles the Curlew Sandpiper&lt;/a&gt;. Each card has a captivating fact-filled story. In the future more creatures the BDI protects will be added to the Wildcards kingdom.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2280/0*tVexJefBi4YmHh6j&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You can publicly buy one of these wildcards online, which will make you the guardian of that animal. When you buy a wildcard, you must also set the price you are willing to sell it for. Every month, as the guardian of a wildcard you will give a specified portion of the selling price you set, to that animal’s representative conservation agency, in this case, the BDI. At any point, someone can buy the wildcard from you, at the selling price you specified. When someone buys the wildcard from you they must set a selling price. The new guardian of the wildcard is then responsible for giving the new monthly subscription. And so, the cycle continues the generation of funds.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3200/0*OdtCnPjLxLUTQknf&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Wildcards is ecstatic about connecting funders with conservation agencies having a real-world impact on the protection of wild animals.&lt;/p&gt;
+&lt;p&gt;Also read:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.wildcards.world/wildcards-intro/&quot;&gt;**Wildcards: an unprecedented means of funding conservation&lt;/a&gt;**&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Announcing Wildcards Conservation Partner - La Senda Verde]]></title><description><![CDATA[Announcing Wildcards Conservation Partner - La Senda Verde La Senda Verde We’re excited today to be talking about one of our first and…]]></description><link>https://blog.wildcards.world/la-senda-verde-partnership/</link><guid isPermaLink="false">https://blog.wildcards.world/la-senda-verde-partnership/</guid><pubDate>Fri, 10 Jul 2020 15:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Announcing Wildcards Conservation Partner - La Senda Verde&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/la-senda-verde-banner.jpg&quot; alt=&quot;La Senda Verde&quot; title=&quot;Wildcards x La Senda Verde&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We’re excited today to be talking about one of our first and favourite conservation partners, La Senda Verde!&lt;/p&gt;
+&lt;p&gt;La Senda Verde has spent the last 15 years fighting the illegal wildlife trade in Bolivia, helping to rehabilitate the animals rescued from this cruel trade.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/W3s2rwVlKSE&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;h2&gt;La Senda Verde Partnership&lt;/h2&gt;
+&lt;p&gt;The partnership will see more funds being raised for La Senda Verde’s conservation efforts through the wildcards platform.&lt;/p&gt;
+&lt;p&gt;Tarkus the bear is one of the many animals being cared for at La Senda Verde. You can become the guardian of &lt;a href=&quot;https://wildcards.world/#explorer/details/15&quot;&gt;him&lt;/a&gt; today and start supporting La Senda Verde’s amazing conservation efforts.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/84fbf7e3857031a62e52cb0bcd8c3579/f941f/Tarkus.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 736px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAACRElEQVQoz42S22vTcBTH8yf5oK/qNgfzguAN9UHFBx0+SBEE8UHYkAkiqFidDpkb1m1WH3wQXcXaDocPA2np/ZK0rhfapsmaJmmbNG0Sv/mlpJ364BdyOPnlfM45Ob9DaZrWarVkWZaIOp2OaZqGYZhEhq6bxMcJ/LYoOJ8gqt3uCEKzTQRSURQSpttBLakt8Q07VOSqdHhL5FgnO9VsiizLmX/L0GG69Dr97kZLM4V65fHczOT4wZcv5nFuZ7cq7+zw9XqdZVme5yuVCvxut6vrmhVUX2YCF5bc7oV7dy6fOrpn7z6XyzWsXK1WQ6FQLBaLRqO2jcfjDMP0ej3EIOKrP/j0/u3VJ7MXz56eOnxkevpKIBhYXHpDM3kKBSORSCqVymazwJLJZDqdpmm63+9blft6ZnM+/uVWxjdz/syx/QcmJg+Nv3K73nvmfJ/eUhzHZTIZkKgGB5YmIjBp7tdHxX/9p+fm1UsnxibGTh6fWpi99m3zAV8OUPhDdAvG4VE5n8/bQ7OermxWNr5/Xnu9tvDs+cNVz6LXuxL0r5uGQmFIwBDNEOVyOcCCIIzO3RikMTFdTes5xxaM/wQPBiQaxiu2ZRQm12bsvkgr4aBtAJhWIpGADYfD5XJ5d6RFSpK8vV1SFXV4VbVaDUChUEBNu204pVLpH7AsFUvF0f3FhjUbjYaqqthwez2dJf0D7shKMVdWOuqga8BYpiaRKIq2g2nB2vc8Cm8VfN7wo1j1x7Cy+R8yyJ5/SLrvbpzz51ack9+w8BwuFdb4IAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tarkus&quot;
+        title=&quot;Tarkus&quot;
+        src=&quot;/static/84fbf7e3857031a62e52cb0bcd8c3579/f941f/Tarkus.png&quot;
+        srcset=&quot;/static/84fbf7e3857031a62e52cb0bcd8c3579/63868/Tarkus.png 250w,
+/static/84fbf7e3857031a62e52cb0bcd8c3579/0b533/Tarkus.png 500w,
+/static/84fbf7e3857031a62e52cb0bcd8c3579/f941f/Tarkus.png 736w&quot;
+        sizes=&quot;(max-width: 736px) 100vw, 736px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/41fb69ea61cbee1ceaad01eaf6670877/6981f/Tarkus-real.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 391px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUCBAP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAeLHrPnU3AdUkEuRZ//EABsQAAMAAgMAAAAAAAAAAAAAAAABAwIRISJB/9oACAEBAAEFAs654tUbN7KzE+Sz6+H/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAYEQACAwAAAAAAAAAAAAAAAAAAAhARMf/aAAgBAgEBPwEoTI//xAAcEAABAwUAAAAAAAAAAAAAAAAAAQIQERIxMpH/2gAIAQEABj8CVtRbjYw6ez//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhYUH/2gAIAQEAAT8hiJLmF89PTI1V9rCGCsfaWcEWys//2gAMAwEAAgADAAAAEAwAPP/EABYRAQEBAAAAAAAAAAAAAAAAABABEf/aAAgBAwEBPxDCn//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/EAGB/8QAHBABAQACAwEBAAAAAAAAAAAAAREAIUFRYXEx/9oACAEBAAE/EEAoc8C95egKfT3Jaj0K5EW0rUa+8ZRVT8MpscPEDtEs1gABuZ7TP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tarkus-real&quot;
+        title=&quot;Tarkus&quot;
+        src=&quot;/static/41fb69ea61cbee1ceaad01eaf6670877/6981f/Tarkus-real.jpg&quot;
+        srcset=&quot;/static/41fb69ea61cbee1ceaad01eaf6670877/0479a/Tarkus-real.jpg 250w,
+/static/41fb69ea61cbee1ceaad01eaf6670877/6981f/Tarkus-real.jpg 391w&quot;
+        sizes=&quot;(max-width: 391px) 100vw, 391px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;About Wildcards&lt;/h2&gt;
+&lt;p&gt;Wildcards is a fun and engaging platform raising funds for animal conservations around the globe. Users can become the guardian of various cool animals, earn badges and rewards, rank on leaderboards, and help support conservation on a global scale. The platform also educates the public about the vast number of conservations working worldwide to ensure that the precious animals we have today will flourish tomorrow.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wildcards - an unprecedented means of funding conservation]]></title><description><![CDATA[Wildcards: an unprecedented means of funding conservation Tech nerds and conservation agencies unite  As the economic devastation of Covid…]]></description><link>https://blog.wildcards.world/wildcards-intro/</link><guid isPermaLink="false">https://blog.wildcards.world/wildcards-intro/</guid><pubDate>Fri, 03 Jul 2020 15:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Wildcards: an unprecedented means of funding conservation&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tech nerds and conservation agencies unite&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ddf64ad8b1218805f3528015d9909da2/cc06c/wildcards-blog-banner.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.800000000000004%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABeb52iVSME//EABkQAQACAwAAAAAAAAAAAAAAAAIBEwAQEf/aAAgBAQABBQKyU9CZ6Grc/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEDBQAAAAAAAAAAAAAAABAAARECEiExgf/aAAgBAQAGPwK2hurRicD/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhMRBhgf/aAAgBAQABPyEqBQ0qWji3sM7KgrDNz9Hj/9oADAMBAAIAAwAAABC/H//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxA0T//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxB0f//EABwQAQEBAAIDAQAAAAAAAAAAAAERACFBMVFhcf/aAAgBAQABPxDkAHx9OgyYRXlg4yRaPVuXJGhf10JqgaXr7h3/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;wildcards blog banner&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ddf64ad8b1218805f3528015d9909da2/a2510/wildcards-blog-banner.jpg&quot;
+        srcset=&quot;/static/ddf64ad8b1218805f3528015d9909da2/0479a/wildcards-blog-banner.jpg 250w,
+/static/ddf64ad8b1218805f3528015d9909da2/41099/wildcards-blog-banner.jpg 500w,
+/static/ddf64ad8b1218805f3528015d9909da2/a2510/wildcards-blog-banner.jpg 1000w,
+/static/ddf64ad8b1218805f3528015d9909da2/c58a3/wildcards-blog-banner.jpg 1500w,
+/static/ddf64ad8b1218805f3528015d9909da2/3acf0/wildcards-blog-banner.jpg 2000w,
+/static/ddf64ad8b1218805f3528015d9909da2/cc06c/wildcards-blog-banner.jpg 3366w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;As the economic devastation of Covid-19 cripples critical conservation projects globally, their funding sources dry up. Fundraising events and ecotourism are on hold; traditional streams of funding are strapped for cash; private contributors have donor fatigue and organisations everywhere are anxious about what the future holds. As food becomes scarce and poverty rises, the adverse effects on wildlife increases. Hunting for bushmeat and poaching for exotic animal parts are intensifying. How long will we feel the effects of Covid-19?&lt;/p&gt;
+&lt;p&gt;Wildcards is an unconventional strategy that is able to harness funding for conservation while simultaneously providing entertainment and dare we say, fun.&lt;/p&gt;
+&lt;p&gt;Gamification and conservation are an unusual marriage, but with cryptocurrency acting as their glue, they attract new audiences and offer a new way of funding conservation agencies who are making a real impact around the world.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wildcards 101&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wildcards + conservation partners: what’s in it for you?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Together, Wildcards and conservation partners are a win-win. Being a Wildcards conservation partner is free and carries no risk and no extra demands for the funding recipient. It gives conservation agencies and their cause exposure and allows them to tap into a unique, emerging global network of funders who operate within the cryptocurrency community.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3200/0*6mVuHkvF0xcszAvW&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Funders are typically from a tech background and are keen to contribute in a meaningful way to conservation. Wildcards are planning to tap into funders from the lucrative gaming industry next. Existing Wildcards conservation partners who are already benefiting from the Wildcards platform include&lt;a href=&quot;http://www.sendaverde.org/&quot;&gt; Senda Verde&lt;/a&gt;,&lt;a href=&quot;https://www.wildtomorrowfund.org/&quot;&gt; Wild Tomorrow Fund&lt;/a&gt;,&lt;a href=&quot;http://darwinanimaldoctors.org/&quot;&gt; Darwin Animal Doctors&lt;/a&gt;,&lt;a href=&quot;https://www.greatwhaleconservancy.org/&quot;&gt; Great Whale Conservancy&lt;/a&gt;,&lt;a href=&quot;http://thebdi.org/&quot;&gt; Biodiversity and Development Institute&lt;/a&gt;,&lt;a href=&quot;https://www.pangolin.africa/&quot;&gt; Pangolin.Africa&lt;/a&gt;,&lt;a href=&quot;https://www.lemurconservationnetwork.org/&quot;&gt; Lemur Conservation Network&lt;/a&gt;,&lt;a href=&quot;https://sharkspotters.org.za/&quot;&gt; Shark Spotters&lt;/a&gt;, and&lt;a href=&quot;https://www.careforwild.co.za/&quot;&gt; Care for Wild Rhino Sanctuary&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are Wildcards and how does it work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You publicly buy a virtual animal ‘wildcard’ online, which then makes you the guardian of that particular animal. Each wildcard is accompanied by that animal’s history and contains interesting facts about the animal. Each animal represents a conservation agency which helps to protect the actual individual animal or its species. When you buy a wildcard, you must also set the price you are willing to sell it for.&lt;/p&gt;
+&lt;p&gt;Every month, the guardian of a wildcard gives a specified portion of the price they are willing to sell that wildcard for, to that animal’s representative conservation agency.&lt;/p&gt;
+&lt;p&gt;I.e. You buy a wildcard, set its selling price to US$100, then because that wildcard has a 20% monthly donation you give US$20 a month to the conservation agency that animal represents.&lt;/p&gt;
+&lt;p&gt;So at any point someone can buy the wildcard from you, if they are willing to pay the selling price you specified, because wildcards are always for sale. When someone buys the wildcard from you they must set a selling price. They, the new guardian of the wildcard, are then responsible for giving the new monthly donation. And so, the cycle continues the generation of funds.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why buy wildcards: Gamified giving meets conservation commission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each time a card is sold, revenue is collected by the outgoing guardian, a minimum of 5% of this revenue goes to running the Wildcards platform. Wildcard guardians get to support their favourite conservation agencies who are making real-world impacts. Wildcards also keeps its audience up to date with the work of its conservation partners and posts notifications of changes in the guardianship of a wildcard via social media. The awarding of badges, the celebration of giving streaks, and the guardianship-giving leaderboard is transparent and public, and acknowledges guardians for their giving.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Beauty of Blockchain: Transactions are transparent, traceable in real-time, and there are no international banking fees&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transparency is at the core of Wildcards. At any point in time, anyone can instantly verify the movements of funds. Moreover, no one can cheat the mechanism and the flow of funds, because Wildcards uses blockchain technology. The beauty of blockchain is that it’s a decentralised database that’s distributed and duplicated on multiple computers at the same time, allowing interaction without the need for involving counterparties such as banks.&lt;/p&gt;
+&lt;p&gt;As new records — known as “blocks” — are added, the blockchain grows. Each block contains links to the preceding blocks and has timestamps, thereby forming a chain. As funds are in the form of Ether, a cryptocurrency, there are no international transaction fees when people from abroad donate to your agency. 1 Ether is currently worth US$ 243,60. However, for now, converting Eth to your local currency will incur a small fee. This fee will likely drop in the future as more global commerce moves on to the blockchain and the technology improves. There are also plans to allow the use of stable cryptocurrencies whose coin value is fixed at 1 US$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crypto, gaming, giving: a new era for conservation funding&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well-known conservation agencies such as WWF already have extensive systems, platforms and long-standing audiences, but smaller conservation agencies and funds tend to fall through the gaps. They may not have access to the same reputation and legacy that prominent conservation agencies do or have the technical resources required to effectively raise funds in a digital age. However, the work they do is still hugely valued and critical to conserving wildlife. Instead of contributing to one, big, global fund, Wildcards is able to split its global giving to many small funds that each make a big difference on regional and local levels. Wildcards make sure that smaller conservations aren’t left behind while globalisation and new technologies continue to change the world to favour large organisations.&lt;/p&gt;
+&lt;p&gt;With the world all but turned on its head and looking for fresh ways to reinvent itself, Wildcards has the potential to herald a new era of funding which is mutually beneficial and offers value along with visibility.&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow Wildcards on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Announcing Wildcards Conservation Partner - Wild Tomorrow Fund]]></title><description><![CDATA[Announcing Wildcards Conservation Partner - Wild Tomorrow Fund wild tomorrow fund We’re excited today to be telling you more about our very…]]></description><link>https://blog.wildcards.world/wild-tomorrow-fund-partnership/</link><guid isPermaLink="false">https://blog.wildcards.world/wild-tomorrow-fund-partnership/</guid><pubDate>Wed, 24 Jun 2020 15:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Announcing Wildcards Conservation Partner - Wild Tomorrow Fund&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/wild-tomorrow-fund-banner.jpg&quot; alt=&quot;wild tomorrow fund&quot; title=&quot;Wildcards x Wild Tomorrow Fund&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We’re excited today to be telling you more about our very first partnership, launched in October last year, with the incredible Wild Tomorrow Fund!&lt;/p&gt;
+&lt;p&gt;As our partners say, “we want to ensure that the world that comes after us is a world in which a wild tomorrow is possible.”&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/UCW_qAtXQyw&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Wild Tomorrow fund works throughout Southern Africa protecting threatened and endangered species and the habitats they call home. This includes ensuring that wildlife habitats are expanded and protected while existing reserves get the resources needed to keep their animals safe.&lt;/p&gt;
+&lt;h2&gt;Wild Tomorrow Fund Partnership&lt;/h2&gt;
+&lt;p&gt;The partnership will see more funds being raised for Wild Tomorrow Fund conservation efforts through the wildcards platform. The &lt;a href=&quot;https://www.wildtomorrowfund.org/blog/2018/7/31/launch-of-the-mun-ya-wana-conservancy-spotted-hyena-project&quot;&gt;spotted hyena project&lt;/a&gt; is an example of one amazing project currently on the go. Head over to wildcards.world and become the guardian of Nonhlanhla today to help support Wild Tomorrow Fund in their amazing work!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5a01a3c4f3a26dc67b8e82d85a5abb25/01e7c/nonhlanahla-screenshot.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 512px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAACRUlEQVQ4y42Ty2sTURTG8w8pLlzbpQsf3Vh8kE1Fo64iKoLLQikuFKQgtOIDlELQSFqQWrWloYsQpqlOVJKYmWQmk8ljMjPJvJJO5nHHc+80sajQfAyHywe/8917OBPhOL7ZlNbSie9FmmWqLFt1Xd/z/v7AdB1y8DzX8UIz0gWpvZKUa8pCR5I7cicIUPBfIYR8H8rYiARHCmF5DuT6oeEMhxB9ANu23R/0DcOwLEvTNHD8cQIGMdNWxdWN18Vf9I8y9W0v8ye52+3puuGNhEYicODYntrrKEpbs5TkyqtrF88W8nTbFHSzi2HTMC2r/89tySW1Ar89s1fKVArFj6nk4/m51cSbfC77Of3e6hthssrzMPNmq9Wq1+uCIHAcZxoG7rAv9KQVOFBU7k7s8uK96I0r5ymKMj116NoYbjQaDMNWiaALwzAAGwQO3w+VpvPxmVMLs1O3zp3c2d4EBx6IYQgsl8uAAQxk2MJxnNHA8GB1qf7w5pkTx4/dvTSVST39yZSgKYYlSapUKpDGsixUgKHXODnNfkjuzieWrs5Fp+LR04/i08v3L6y/XWirBQzLslyr1URRhBq+WVVVkoozs4WX9G48s3b701Js63nsy/Ls1rPrqcXpEr8RCa92aB3Q4R0ijx4E+2Iw4AJXCGwe2YxvFpFVRq559IYh8nk+0vSB2rN0czj2J1hPgvu+12iIMBRFlrGDtwBNAh9oOHAkURlv+GQ/BgmCmhM33+WfVJQ8mY4/MUxGuMMnX3x9UJSzY/g3QR+i1gkXJpsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;nonhlanahla-screenshot&quot;
+        title=&quot;Nonhlanhla&quot;
+        src=&quot;/static/5a01a3c4f3a26dc67b8e82d85a5abb25/01e7c/nonhlanahla-screenshot.png&quot;
+        srcset=&quot;/static/5a01a3c4f3a26dc67b8e82d85a5abb25/63868/nonhlanahla-screenshot.png 250w,
+/static/5a01a3c4f3a26dc67b8e82d85a5abb25/0b533/nonhlanahla-screenshot.png 500w,
+/static/5a01a3c4f3a26dc67b8e82d85a5abb25/01e7c/nonhlanahla-screenshot.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/34311fb2cc8b3351b72be2c948db4e42/b4294/Nonhlanhla.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGlHpVSsnGbwAP/xAAaEAACAwEBAAAAAAAAAAAAAAAAAQISFCET/9oACAEBAAEFAsvM54Ckyzb6WkWkWkf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAAMQEQETL/2gAIAQEABj8C3RjrK6kcjk//xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhUfExcf/aAAgBAQABPyHfw+k2TsLeptTMK2SSGqOwdo7R/9oADAMBAAIAAwAAABAgxzz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUGR8WFxsf/aAAgBAQABPxADrJwURKWCHKDEdjhIAtgU3efcs6wu3e5aX8gWnLnZ52Wf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;nonhlanahla&quot;
+        title=&quot;Nonhlanhla&quot;
+        src=&quot;/static/34311fb2cc8b3351b72be2c948db4e42/b4294/Nonhlanhla.jpg&quot;
+        srcset=&quot;/static/34311fb2cc8b3351b72be2c948db4e42/0479a/Nonhlanhla.jpg 250w,
+/static/34311fb2cc8b3351b72be2c948db4e42/41099/Nonhlanhla.jpg 500w,
+/static/34311fb2cc8b3351b72be2c948db4e42/b4294/Nonhlanhla.jpg 600w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;About Wildcards&lt;/h2&gt;
+&lt;p&gt;Wildcards is a fun and engaging platform raising funds for animal conservations around the globe. Users can become the guardian of various cool animals, earn badges and rewards, rank on leaderboards, and help support conservation on a global scale. The platform also educates the public about the vast number of conservations working worldwide to ensure that the precious animals we have today will flourish tomorrow.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Announcing New Wildcards Features Powered By Chainlink VRF]]></title><description><![CDATA[Announcing New Wildcards Features Powered By Chainlink VRF  We’re excited today to announce a host of new features powered by our upcoming…]]></description><link>https://blog.wildcards.world/chainlink-vrf-wildcards/</link><guid isPermaLink="false">https://blog.wildcards.world/chainlink-vrf-wildcards/</guid><pubDate>Fri, 19 Jun 2020 15:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Announcing New Wildcards Features Powered By Chainlink VRF&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a2f2ec7979debbf7fa6b872beea4bdbe/b17f8/WildCards-chainlink.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.400000000000006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAABo25FbAiJ/8QAGBABAQEBAQAAAAAAAAAAAAAAAQIAAxH/2gAIAQEAAQUCjiOeEurmDN1m68aff//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPwHEf//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAXEAEBAQEAAAAAAAAAAAAAAAAAMREQ/9oACAEBAAY/At5iqr//xAAaEAACAwEBAAAAAAAAAAAAAAAAARExQSFx/9oACAEBAAE/IVSbvgppjPYTiHNibw//2gAMAwEAAgADAAAAEFwf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EKCJj//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIP/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhQWFxwf/aAAgBAQABPxC3C50+40gENoJ5hsI4YZMDOsjGlt3iXW9z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;chainlink&quot;
+        title=&quot;Wildcards x Chainlink&quot;
+        src=&quot;/static/a2f2ec7979debbf7fa6b872beea4bdbe/a2510/WildCards-chainlink.jpg&quot;
+        srcset=&quot;/static/a2f2ec7979debbf7fa6b872beea4bdbe/0479a/WildCards-chainlink.jpg 250w,
+/static/a2f2ec7979debbf7fa6b872beea4bdbe/41099/WildCards-chainlink.jpg 500w,
+/static/a2f2ec7979debbf7fa6b872beea4bdbe/a2510/WildCards-chainlink.jpg 1000w,
+/static/a2f2ec7979debbf7fa6b872beea4bdbe/c58a3/WildCards-chainlink.jpg 1500w,
+/static/a2f2ec7979debbf7fa6b872beea4bdbe/b17f8/WildCards-chainlink.jpg 1600w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We’re excited today to announce a host of new features powered by our upcoming integration with Chainlink VRF! These features will expand the Wildcards ecosystem, ultimately helping us better connect global conservation organizations and users through a social, gamified, and transparent platform.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; are NFTs, with each token representing a unique animal from one of our partner conservation organizations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Currently, every wildcard NFT is always for sale. This is because every wildcard guardian (owner) is required to set a selling price and pay a percentage of this selling price each month to our conservation partners. This concept is technically known as a Harberger tax.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/rpQCKoRvyR4&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Our new features will be based on randomness provided by Chainlink VRF (Verifiable Randomness Function). &lt;a href=&quot;https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/&quot;&gt;Chainlink VRF&lt;/a&gt; is a randomness solution for smart contracts, providing auditable, cryptographic guarantees that each random result is unbiased and fair.&lt;/p&gt;
+&lt;p&gt;Chainlink VRF will allow us to expand the wildcards ecosystem and offer an exciting new line of collectible wildcards! We will introduce an ‘egg hatching’ mechanic in addition to our always for sale (Harberger-taxed) NFTs. We believe our users will enjoy this new collection method and populate their own virtual conservation wildernesses. We also look forward to rewarding active participants in the &lt;a href=&quot;https://wildcards.world/#dao&quot;&gt;Wildcards conservation DAO&lt;/a&gt; with random drawings for ultra-rare Wildcards.&lt;/p&gt;
+&lt;h2&gt;Integration Details&lt;/h2&gt;
+&lt;p&gt;Chainlink VRF enables our team to introduce two new collection mechanics to the Wildcards platform. These features will increase the number of Wildcard collectibles, and incentivize Wildcard guardians to actively participate in the governance of the Wildcards ecosystem. We expect to simultaneously attract new users to the platform and encourage further participation from current members.&lt;/p&gt;
+&lt;h3&gt;Growing Wildcards supply with a hatching mechanic&lt;/h3&gt;
+&lt;p&gt;Our Harberger-taxed NFTs are currently in limited supply based on our number of conservation partners and the animals they protect. With Chainlink VRF, we’ll be launching a new line of NFTs to make more Wildcards available for our users. The new collectibles will feature animals of varying rarities and breeds and be created through a randomized ‘hatching’ mechanism. The increase in the number of Wildcards will help us drive more funds towards conservation efforts.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ceda897a42df1a8c756f6de44420b120/e0885/hatching-wc.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 918px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAACF0lEQVQoz2NYfHr70tM7Fp3etuzQ5sUntz188/z//////v37DwN///0Fkpee3AmaVxk4vzJ2WWnylGzn/pzlZ3YxlO+YNO3c2v4jy8pWTyzZPe3QrXNgLf8+fPqz5+SHtx9//wNrnn1gA0OZHnuTrUihrlqMAkO5dsSiKoaF57ZWN9d3T+5dempbxdbpR29cgFi4fMebzYfePn/74+uP30DuykvbmOqsOGtcJAN0vUL0GEqNYubWMWw7spOHg5udjX1iT8fcXQv3XT8Nduq/p69/nr72efmO1xDN2x7tEuy1Noi2dLcxn+GrbB6hFD63lmHmmkUyUtKS0lKW5hYrT27de+0UUOnP3/++fP+35+THS7e+PX71Ayiy5OwWhgIjpUAjJwczFVMVUUeZ+Hm1DAt2rpYUEWdgYJATl5q0ceGxR1eASt+8//z67edv33/8/PXr7pOPQJG5B9fxFlpphdoJm8mqqClweirErWpkmHd83caDW7rmTJqxZlHnxjlHboP8/Ojxwzt3b716/fLVq5cfP70DiizYu46vzMxoqgd3sqlkkAFDvGbsgjqGvGXdrXvmNW6dXbtheuHSroPXQH5+/vL58xfPnz1//uTpk89fvwJF5uxZxeAnxVSgz5CgzhKqwuApHD6piGHl4e2rTuxafWLXmuM7Vx/a9vgV9ni+8eRu8qSq+Jl1ifMaUubVR3cVbjyxBwB1XVtvBSGG0AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;hatch-random-wildcard&quot;
+        title=&quot;Hatching a Random Wildcard&quot;
+        src=&quot;/static/ceda897a42df1a8c756f6de44420b120/e0885/hatching-wc.png&quot;
+        srcset=&quot;/static/ceda897a42df1a8c756f6de44420b120/63868/hatching-wc.png 250w,
+/static/ceda897a42df1a8c756f6de44420b120/0b533/hatching-wc.png 500w,
+/static/ceda897a42df1a8c756f6de44420b120/e0885/hatching-wc.png 918w&quot;
+        sizes=&quot;(max-width: 918px) 100vw, 918px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Loyalty token distribution and random rewards&lt;/h3&gt;
+&lt;p&gt;In addition to a new line of wildcards NFTs, we will implement Chainlink VRF to incentivize Wildcards governance participation. For each day that a guardian holds a Harberger-taxed NFT, they will be rewarded with a Wildcards loyalty token. By using these tokens to vote (Quadratic Voting), they’ll have a chance at receiving an ultra-rare, randomly distributed NFT.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33c0a89532289613a82c51cb4c74b024/84a90/vote-to-hatch-wc.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 982px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABo0lEQVQY022Qy0sCURTGB/oLomX7NvUPtGzZooKKoiBaRC2Cglq2KJAoiJDMwkqyKHtnTKC96LFxEfTA11ikNqSIzuNex3Ge6txpRjcGfXyLey/n951zD6ZXVCxKGirr/ykck4iEaByknET/MDDFUTGQCcV4SGFIFfhXPL43nvYuqNkPpOumkWlDWVbd8zJRUs4rOu7EDxbvD0/IXTy84lizu7YxmAr7F/qi1rH4yijhWTKJCqeVy7wIBFn+ThfdVwydQ8dbG5P2I8t7ZOTWN7y8f7lzjWWS8ajPJgfcrH/j0+8RVZ2CWoJMEs/uwPORUOCS2VIkIWYyyvzZTdsu3uG6a7E+NQ8sXWxdY0YTjnwjz2eYl1OjVENILelZKvVwO//yaJMEYE6BUEnR+pze5vbpxn5L3dRZfefcptVlworEHziW0+SXObKmmdVaGbKJfC6Jql+oPM7a1pu6hxp6J1q7xgd7BhzOVUxRZJYFAELDHMdVN4z+LrwaIRT4SJR4DxPBQChIhHhRwIxUCCFN0xRFybJcC1SZWhnpOQABAEJBMK6/I6yUbRL4PC4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vote-to-hatch&quot;
+        title=&quot;Incentivise Voter Participation with Random Wildcards&quot;
+        src=&quot;/static/33c0a89532289613a82c51cb4c74b024/84a90/vote-to-hatch-wc.png&quot;
+        srcset=&quot;/static/33c0a89532289613a82c51cb4c74b024/63868/vote-to-hatch-wc.png 250w,
+/static/33c0a89532289613a82c51cb4c74b024/0b533/vote-to-hatch-wc.png 500w,
+/static/33c0a89532289613a82c51cb4c74b024/84a90/vote-to-hatch-wc.png 982w&quot;
+        sizes=&quot;(max-width: 982px) 100vw, 982px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Chainlink VRF empowers us to enrich the Wildcards experience using provably-fair randomness. We are leveraging this solution to expand our ecosystem and achieve our goal of contributing more towards worldwide animal conservation efforts.&lt;/p&gt;
+&lt;h2&gt;About Chainlink&lt;/h2&gt;
+&lt;p&gt;If you are a smart contract developer and want to take advantage of Chainlink VRF feature, visit their &lt;a href=&quot;https://docs.chain.link/docs/chainlink-vrf&quot;&gt;developer documentation&lt;/a&gt;, and join the technical discussion on &lt;a href=&quot;https://discordapp.com/invite/aSK4zew&quot;&gt;Discord&lt;/a&gt;. Learn more by visiting the &lt;a href=&quot;https://chain.link/&quot;&gt;Chainlink website&lt;/a&gt; or following them on &lt;a href=&quot;https://twitter.com/chainlink&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.reddit.com/r/Chainlink/&quot;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Chainlink is a decentralized oracle network that enables smart contracts to securely access off-chain data feeds, web APIs, and traditional bank payments. It is well known for providing highly secure and reliable oracles to large enterprises (Google, Oracle, and SWIFT) and leading smart contract development teams such as Polkadot/Substrate, Synthetix, Loopring, Aave, OpenLaw, Conflux, and many others.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Build your first Harberger Tax App - Part 1]]></title><description><![CDATA[Build your first Harberger Tax App - Part 1 Wildcards has been running in production for many months, and all the code is opensource…]]></description><link>https://blog.wildcards.world/build-your-own-harberger-tax-app-part-1/</link><guid isPermaLink="false">https://blog.wildcards.world/build-your-own-harberger-tax-app-part-1/</guid><pubDate>Wed, 27 May 2020 14:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Build your first Harberger Tax App - Part 1&lt;/h1&gt;
+&lt;p&gt;Wildcards has been running in production for many months, and all the code is opensource. However, we are yet to see a flourishing of applications built with harberger tax. This article aims to make the code that is used to build wildcards easily accessible to the public. There are quite a few manual steps in this tutorial, but if you follow everything step by step you will be able to have a default working harberger tax application on Ethereum with a UI in under 15 minutes.&lt;/p&gt;
+&lt;p&gt;There are more links and explanations marked with the heading &lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;. We highly encourage you to go through these, but if you just want to get started they are not necessary (and they will cause you to take longer than 15 minutes). If something goes wrong check if there are any &lt;strong&gt;&lt;em&gt;NOTE&lt;/em&gt;&lt;/strong&gt; sections. Otherwise please create an issue on github&lt;/p&gt;
+&lt;p&gt;Once you have completed the basic tutorial we will explore how to customize your application by modifying the contracts and extending the UI. This toolkit is designed to be easy to get started with, yet, (or so we hope) infinitely customizable.&lt;/p&gt;
+&lt;h2&gt;Contents:&lt;/h2&gt;
+&lt;p&gt;This tutorial has 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First part is to deploy the smart contracts.&lt;/li&gt;
+&lt;li&gt;Second part is to create a subgraph that allows you to easily query data from the blockchain.&lt;/li&gt;
+&lt;li&gt;The final step is to run a sample UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Aside&lt;/em&gt;&lt;/strong&gt;: While we truly love thegraph and the power it gives, it also adds quite a lot of config and complexity to an application. I wouldn’t recommend using the graph for very small and quick projects, for that it is simpler to just query blockchain data directly from the blockchain via a provider such as &lt;a href=&quot;https://infura.io&quot;&gt;infura.io&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Get the contracts and deploy them.&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;: These contracts use &lt;a href=&quot;https://github.com/OpenZeppelin/openzeppelin-sdk&quot;&gt;Zeppelin-SDK&lt;/a&gt; to allow them to be up-gradable. Please go through their &lt;a href=&quot;https://openzeppelin.com/sdk/&quot;&gt;docs&lt;/a&gt; carefully to understand what this means and the requirements if you wish to upgrade.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Clone the repository and install the dependencies:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone https://github.com/wildcards-world/harberger-base-contracts.git
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; harberger-base-contracts
+&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;# You can also use `npm install` but yarn is recommended.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then deploy the contracts to the goerli test network:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; migrate --network goerli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;NOTE&lt;/em&gt;&lt;/strong&gt;: This command will take a few minutes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;NOTE&lt;/em&gt;&lt;/strong&gt;: If there is an issue with this command it is likely that someone has used/stolen all the goerli testnet eth that is stored by the private key hardcoded in this repo. Another possibility is that the infura keys are exhausted (since they are on free tier). Generate new keys &lt;a href=&quot;https://iancoleman.io/bip39/&quot;&gt;here&lt;/a&gt; and paste them into &lt;code class=&quot;language-text&quot;&gt;./secrectsManager.example.js&lt;/code&gt; to replace the old private key. If you want to use your own infura keys, generate them &lt;a href=&quot;https://infura.io/&quot;&gt;here&lt;/a&gt; and paste your keys into &lt;code class=&quot;language-text&quot;&gt;./secrectsManager.example.js&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It should output something similar to this on completion.
+&lt;img src=&quot;https://i.imgur.com/InsmRtH.png&quot; alt=&quot;Expected Output&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;: these contracts currently use &lt;a href=&quot;https://www.trufflesuite.com/docs/truffle/reference/configuration&quot;&gt;truffle&lt;/a&gt; + &lt;a href=&quot;https://www.trufflesuite.com/ganache&quot;&gt;ganache&lt;/a&gt;, but over time the goal is to move it completely to &lt;a href=&quot;https://buidler.dev/&quot;&gt;buidler&lt;/a&gt;. At the moment you will find traces of configuration for both in the repo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now that the contract is deployed to the goerli testnet we need to get the contract addresses. It is found in the &lt;code class=&quot;language-text&quot;&gt;./openzeppelin/goerli.json&lt;/code&gt; file near the bottom under &lt;code class=&quot;language-text&quot;&gt;proxies &amp;gt; &amp;quot;the contract name&amp;quot; &amp;gt; address&lt;/code&gt; as shown below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/GrASHKv.png&quot; alt=&quot;where-to-find-contract-addresses&quot;&gt;
+In our case the address for the &lt;em&gt;HarbergerSteward&lt;/em&gt; is &lt;code class=&quot;language-text&quot;&gt;0x4bE0Eab8f41c8109AA134509086Cbcb18b10C0fB&lt;/code&gt; and for the &lt;em&gt;ERC721Patronage&lt;/em&gt; it is &lt;code class=&quot;language-text&quot;&gt;0x48C12e1c5aBC5239FD6e2642C929E8FA8bE29999&lt;/code&gt; - we will use these in the next steps, so keep them somewhere for reference.&lt;/p&gt;
+&lt;h2&gt;Create a subgraph&lt;/h2&gt;
+&lt;p&gt;This repo allows us to read data from the ethereum blockchain.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;: the subgraph is provided by thegraph.com . It uses graphQL which is a specification for how to structure data requests and it is a powerful tool because it allows you to fetch exactly the data you want from the graph. The UI library uses a library called &lt;a href=&quot;https://www.apollographql.com/&quot;&gt;apollo&lt;/a&gt; to fetch the data from the subgraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Get the code and install the dependencies by running the following in a new terminal and folder:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone https://github.com/wildcards-world/harberger-base-subgraph.git
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; harberger-base-subgraph
+&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;# Once again, you can use `npm install` if you prefer.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next you will need to create an account with &lt;a href=&quot;https://thegraph.com&quot;&gt;the Graph&lt;/a&gt;. Once you have an account go to your dashboard and click the button that says “Add Subgraph” in the top right corner:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/PsaZYQa.png&quot; alt=&quot;create-graph-button&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Fill in your preferred details for your new subgraph:
+&lt;img src=&quot;https://i.imgur.com/DEnfDNu.png&quot; alt=&quot;create-graph&quot;&gt;
+Once created it will present you with some default instructions. I have summarised them below.&lt;/p&gt;
+&lt;p&gt;Install thegraph cli tool:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; --global @graphprotocol/graph-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;NOTE&lt;/em&gt;&lt;/strong&gt;: this command will take some time, so feel free to continue in the meantime. You do need this command to run the &lt;code class=&quot;language-text&quot;&gt;graph auth&lt;/code&gt; command below.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Authenticate with thegraph. Copy the code in the top bar and run it in the following command:
+&lt;img src=&quot;https://i.imgur.com/WlMCvdP.png&quot; alt=&quot;secret-graph-code&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;graph auth https://api.thegraph.com/deploy/ &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;ACCESS_TOKEN&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;# find this access token as circled in the image above.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9v6fsfP.png&quot; alt=&quot;success example&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You are ready to test deploying this graph. First change the &lt;em&gt;package.json&lt;/em&gt; to point to the correct subgraph:
+&lt;img src=&quot;https://i.imgur.com/ptkktvU.png&quot; alt=&quot;set-upstream-graph-endpoint&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For example if you github name is “jasoons” and your new subgraph is called “harberger-app” you should set this line to say &lt;code class=&quot;language-text&quot;&gt;&amp;quot;deploy&amp;quot;: &amp;quot;graph deploy --node https://api.thegraph.com/deploy/ --ipfs https://api.thegraph.com/ipfs/ jasoons/harberger-app&amp;quot;,&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Next you need to auto-generate some setup code:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; codegen&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;: you will need to run this anytime you change the abi (which you will need to change anytime you change the interface of your contract) or your &lt;code class=&quot;language-text&quot;&gt;subgraph.yaml&lt;/code&gt; file. It generates helper code based on the interface (abi) of your contracts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You are now ready to deploy this version of the subgraph, but will it deploy the correct subgraph for your contracts? The answer is no, you need to tell the graph to watch the contracts you deployed in the previous step. To do that edit the &lt;code class=&quot;language-text&quot;&gt;subgraph.yaml&lt;/code&gt; file with the addresses that you deployed earlier:
+&lt;img src=&quot;https://i.imgur.com/57uJWiN.png&quot; alt=&quot;set-contracts-in-graph&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Now run the deploy script with the correct contract addresses&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yyIGV4S.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Go to back your graph, reload the page and check that everything is working. It should look something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/XUk7WyD.png&quot; alt=&quot;thegraph-playground&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Extra&lt;/em&gt;&lt;/strong&gt;: The docs for thegraph.com are excelent. Do yourself a favour and read through them thoroughly, thegraph will likely help you build on Ethereum for many future projects.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Setup the basic UI&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone https://github.com/wildcards-world/harberger-ui.git
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; harberger-ui
+&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; re:build&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The UI is configured to run with a single simple command:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;EXTRA&lt;/em&gt;&lt;/strong&gt;: You can do all your coding in Javascript or Typescript, however you can also use ReasonMl which is a new typesafe language which is being pioneered by facebook.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now you will need to set the contract address of the steward and the graph endpoint of your subgraph.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/1sseS1J.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You should be able to now buy token #0 (the starter code has this value hardcoded) via the UI and set its price. To use the UI you will need to have the &lt;a href=&quot;https://metamask.io/&quot;&gt;metamask&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To hit the ground running with your own custom UI code you will need to start with the &lt;code class=&quot;language-text&quot;&gt;app.js&lt;/code&gt; file. The code should be easy to follow.&lt;/p&gt;
+&lt;p&gt;For doing more advanced enhancements to this code, check out tutorial #2 of this series!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Community governance through quadratic voting at Italy's first Ethereum hackathon [Remote edition]]]></title><description><![CDATA[TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by Glen the dragon will go to a conservation as…]]></description><link>https://blog.wildcards.world/ethturin/</link><guid isPermaLink="false">https://blog.wildcards.world/ethturin/</guid><pubDate>Mon, 04 May 2020 10:12:03 GMT</pubDate><content:encoded>&lt;p&gt;TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by &lt;a href=&quot;https://wildcards.world/#details/Glen&quot;&gt;Glen the dragon&lt;/a&gt; will go to a conservation as voted by the wildcards community [on-chain quadratic voting].&lt;/p&gt;
 &lt;p&gt;Hackathons are really fun events. It feels a bit like you are given a blank canvas. No rules. No limitations. Just try to think of the coolest and craziest possible ideas, get together some friends, and build them!&lt;/p&gt;
 &lt;p&gt;Berlin, Bangalore, Cape Town, London and Paris are some of the epic destinations we’ve (our team wildcards) hacked at so far. I’ll never forget brainstorming till 3am in India’s most dodgy hostel. Jason Smythe was so excited about our idea he was regularly throwing in legit dance moves during the conversation.&lt;/p&gt;
 &lt;p&gt;The next stop was going to be Turin, Italy for the exciting ETHTurin. Obviously, Italy in the flesh right now, was not exactly an option #COVID19. Fortunately, this didn’t stop us or the organizers, as it became an awesome virtual affair.&lt;/p&gt;
@@ -8,7 +551,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/e1d7b/400nxr.jpg&quot;
+    href=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/935bc/400nxr.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -16,23 +559,22 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 620px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 80.16129032258064%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAedY0DmFJ//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMRIRIi/9oACAEBAAEFAonezI9AZxaEdK9//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAECABARITGhcf/aAAgBAQAGPwKytyYblFCnQmBc+0//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8hcTCzLRzMg5t0nu+S1CrdqIjIaakao7n/2gAMAwEAAgADAAAAEMz/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QSws//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EK2P/8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFBUWGBof/aAAgBAQABPxAGQclAdOESV0nL6jy50LNryxgpAMSC7LbucMIxNejnfxwShIW2c//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 80%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAedY0DmFJ//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMRIRIi/9oACAEBAAEFAonezI9AZxaEdK9//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAECABARITGhcf/aAAgBAQAGPwKytyYblFCnQmBc+0//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8hcTCzLRzMg5t0nu+S1CrdqIjIaakao7n/2gAMAwEAAgADAAAAEMz/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QSws//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EK2P/8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFBUWGBof/aAAgBAQABPxAGQclAdOESV0nL6jy50LNryxgpAMSC7LbucMIxNejnfxwShIW2c//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Quadratic Voting&quot;
         title=&quot;Quadratic voting so hot right now!&quot;
-        src=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/c739e/400nxr.jpg&quot;
-        srcset=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/8ee9c/400nxr.jpg 148w,
-/static/4f9530d40d7cc864fe9bc4742139fe41/ebbe7/400nxr.jpg 295w,
-/static/4f9530d40d7cc864fe9bc4742139fe41/c739e/400nxr.jpg 590w,
-/static/4f9530d40d7cc864fe9bc4742139fe41/e1d7b/400nxr.jpg 620w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/935bc/400nxr.jpg&quot;
+        srcset=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/0479a/400nxr.jpg 250w,
+/static/4f9530d40d7cc864fe9bc4742139fe41/41099/400nxr.jpg 500w,
+/static/4f9530d40d7cc864fe9bc4742139fe41/935bc/400nxr.jpg 620w&quot;
+        sizes=&quot;(max-width: 620px) 100vw, 620px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -48,7 +590,7 @@ Glen is a wildcard, where all the funds raised by Glen the dragon, will go to a 
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/6ff5e/Glen.png&quot;
+    href=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/c1b63/Glen.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -56,7 +598,7 @@ Glen is a wildcard, where all the funds raised by Glen the dragon, will go to a 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -67,14 +609,12 @@ Glen is a wildcard, where all the funds raised by Glen the dragon, will go to a 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Glen&quot;
         title=&quot;Glen the dragon&quot;
-        src=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/b9e4f/Glen.png&quot;
-        srcset=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/cf440/Glen.png 148w,
-/static/f84b46cbf5a0ec705a3f026a05d6fdfa/d2d38/Glen.png 295w,
-/static/f84b46cbf5a0ec705a3f026a05d6fdfa/b9e4f/Glen.png 590w,
-/static/f84b46cbf5a0ec705a3f026a05d6fdfa/f9b6a/Glen.png 885w,
-/static/f84b46cbf5a0ec705a3f026a05d6fdfa/2d849/Glen.png 1180w,
-/static/f84b46cbf5a0ec705a3f026a05d6fdfa/6ff5e/Glen.png 1200w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/00d43/Glen.png&quot;
+        srcset=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/63868/Glen.png 250w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/0b533/Glen.png 500w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/00d43/Glen.png 1000w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/c1b63/Glen.png 1200w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -168,25 +708,23 @@ And JasoonSmythe is the current patron the wildcard info page.&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 93.46811819595646%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAACXBIWXMAAAsSAAALEgHS3X78AAADr0lEQVQ4y2VUbUxbVRi+v/3Azc5E/8xFnPyBSJbNYNQwVyX7QXQjjBhaXUdgWcYyJqiZ2Yba6DKjE8kGi0Bp7SJI7NrRLrSltxmMQtuVWNaVW5C2t+X2lt4WWsrt16VfvusXmT735ua9zznPed9znjcHyRaRTCYNhjkMW4Q4kwMEi4tWp9MOAZNMpDPp7NNAZl2qMcutO9hAawe37PlndrOeU6tUa0GKCHi1qObFPWXHj38E81DXXVfYhlltvJZP28+dsTsdsDZiIqZ7jRdvzn5bfaDyVAvvyAe1nV9ckEzJ+2WCTzgnysv37q94XToq0ph++X2m782qyj0v7d6169nW9tZYikGSme3hhz/x+/n79u2dmXkgEgkPHjwwrBj5UdQLwZXuS9zm5oa2Y2OPfm2/ymUfe1uNKtVKZSOncZlwIDbi0Vk+r7qm4tVyVkfH+as/8NlNh64Mdn3Z21nXXHOSx62v//DomfdOXuO09TQ2ddfdU47PzuiO1rNDkU1kZI5/+vr7DZ/XVNa+VsZ64Y2ql9ltb312re7ExSPV9VWsV1jvNO3vEh5uucHm3m04xKmoZb/bwPmY991hg1WDxJObBqt6RC0SKm6LZSOie7f77gwJxwWDUoF8SjVnefjg7zkDptWYpeM2mVwvGfhz+LfRAYn+D4FCjJTOnYkzETrKMMkSk4gz9CYdjyZKDB2OAbljVSabScGTzYS3wk7cRXrX0jlkMmnKH3A4cIrywyiYDAxJenHczTDMEyadRvItAd9wOOzCcY/Hk/8FBINBu90Ri8UKpSUSpIeEOXQkklftiEObIfcqTno929vb+Yaj/D7C46YoX341SEh6CYJwb9F0QZxXMsn40NSloenL15WnTc5JYJbI+R7VWcH05T60c33LC4zaIr6BXujXdo0Zfy7uuSgWTHUPT3/To2o3u+8DY6cWbqKdYt33A/e/DkYoYLSLo32arlvoV2OGnoJ4p81ztaVSKYIgKYDPtxHYCAZDwfUQ5aMCgcDGerB4GtmnxKDx+6lQKOR2u81m8+PHVhzHXS6X1Wpd/mcZ4pWVFYvFgtkweL1r3ny9hbKj0ahWq9Xr9UKhUKFQoCg6OTkpkfwlk8nkcvnExITJZBKLxVKpdHBoEOYUxKXMYBUsQdM0eAM5IRtUAZkxDNPpdEtLS5FIFIbAi0Qi8b89FwHD8/PzkMpmsxkMBqPRCPkXFhZKpv53z4BcVz3pm5ylCZIkV4lVsBWq8AcCpeuldMkA/gWE930lm17trgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 93.60000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAACXBIWXMAAAsSAAALEgHS3X78AAADr0lEQVQ4y2VUbUxbVRi+v/3Azc5E/8xFnPyBSJbNYNQwVyX7QXQjjBhaXUdgWcYyJqiZ2Yba6DKjE8kGi0Bp7SJI7NrRLrSltxmMQtuVWNaVW5C2t+X2lt4WWsrt16VfvusXmT735ua9zznPed9znjcHyRaRTCYNhjkMW4Q4kwMEi4tWp9MOAZNMpDPp7NNAZl2qMcutO9hAawe37PlndrOeU6tUa0GKCHi1qObFPWXHj38E81DXXVfYhlltvJZP28+dsTsdsDZiIqZ7jRdvzn5bfaDyVAvvyAe1nV9ckEzJ+2WCTzgnysv37q94XToq0ph++X2m782qyj0v7d6169nW9tZYikGSme3hhz/x+/n79u2dmXkgEgkPHjwwrBj5UdQLwZXuS9zm5oa2Y2OPfm2/ymUfe1uNKtVKZSOncZlwIDbi0Vk+r7qm4tVyVkfH+as/8NlNh64Mdn3Z21nXXHOSx62v//DomfdOXuO09TQ2ddfdU47PzuiO1rNDkU1kZI5/+vr7DZ/XVNa+VsZ64Y2ql9ltb312re7ExSPV9VWsV1jvNO3vEh5uucHm3m04xKmoZb/bwPmY991hg1WDxJObBqt6RC0SKm6LZSOie7f77gwJxwWDUoF8SjVnefjg7zkDptWYpeM2mVwvGfhz+LfRAYn+D4FCjJTOnYkzETrKMMkSk4gz9CYdjyZKDB2OAbljVSabScGTzYS3wk7cRXrX0jlkMmnKH3A4cIrywyiYDAxJenHczTDMEyadRvItAd9wOOzCcY/Hk/8FBINBu90Ri8UKpSUSpIeEOXQkklftiEObIfcqTno929vb+Yaj/D7C46YoX341SEh6CYJwb9F0QZxXMsn40NSloenL15WnTc5JYJbI+R7VWcH05T60c33LC4zaIr6BXujXdo0Zfy7uuSgWTHUPT3/To2o3u+8DY6cWbqKdYt33A/e/DkYoYLSLo32arlvoV2OGnoJ4p81ztaVSKYIgKYDPtxHYCAZDwfUQ5aMCgcDGerB4GtmnxKDx+6lQKOR2u81m8+PHVhzHXS6X1Wpd/mcZ4pWVFYvFgtkweL1r3ny9hbKj0ahWq9Xr9UKhUKFQoCg6OTkpkfwlk8nkcvnExITJZBKLxVKpdHBoEOYUxKXMYBUsQdM0eAM5IRtUAZkxDNPpdEtLS5FIFIbAi0Qi8b89FwHD8/PzkMpmsxkMBqPRCPkXFhZKpv53z4BcVz3pm5ylCZIkV4lVsBWq8AcCpeuldMkA/gWE930lm17trgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Screenshot&quot;
         title=&quot;Screenshot of wildcards&quot;
-        src=&quot;/static/5ea3555351d74535a56ae8265e53ecf5/b9e4f/screenshot.png&quot;
-        srcset=&quot;/static/5ea3555351d74535a56ae8265e53ecf5/cf440/screenshot.png 148w,
-/static/5ea3555351d74535a56ae8265e53ecf5/d2d38/screenshot.png 295w,
-/static/5ea3555351d74535a56ae8265e53ecf5/b9e4f/screenshot.png 590w,
-/static/5ea3555351d74535a56ae8265e53ecf5/f9b6a/screenshot.png 885w,
-/static/5ea3555351d74535a56ae8265e53ecf5/2d849/screenshot.png 1180w,
-/static/5ea3555351d74535a56ae8265e53ecf5/05a72/screenshot.png 1286w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/5ea3555351d74535a56ae8265e53ecf5/00d43/screenshot.png&quot;
+        srcset=&quot;/static/5ea3555351d74535a56ae8265e53ecf5/63868/screenshot.png 250w,
+/static/5ea3555351d74535a56ae8265e53ecf5/0b533/screenshot.png 500w,
+/static/5ea3555351d74535a56ae8265e53ecf5/00d43/screenshot.png 1000w,
+/static/5ea3555351d74535a56ae8265e53ecf5/d7e70/screenshot.png 1286w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -204,7 +742,7 @@ One more crucial figure… it is only 0.0000006% of the &lt;a href=&quot;https:/
 &lt;h2&gt;Is team wildcards going to raise a bunch of money then flee to the Bahamas and listen to No Women No Cry while buying cocktails with bitcoin?&lt;/h2&gt;
 &lt;p&gt;Obviously, this is a valid concern, we love Bob Marley. In serious terms, we recognize that the money cannot continue to flow through us toward the conservation, as this requires everyone to trust team wildcards, and we all know that is the thing least liked by the decentralized community. 
 Luckily we are flipping Ninjas when it comes to smart contracts and so we can change the address that receives the funds. The funds generated will flow directly to the public address of an organization. The organization will verify their address on twitter or through their website. Trust is then held at the organization level.&lt;/p&gt;
-&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
@@ -234,7 +772,7 @@ Luckily we are flipping Ninjas when it comes to smart contracts and so we can ch
 &lt;p&gt;All this results in some cool outcomes like a transparent secondary market for carbon credit trading, as well as introducing the chance for early adopters to even profit through the higher resale of their spekboom NFT’s as demand for carbon credits increase.&lt;/p&gt;
 &lt;p&gt;Want to learn more? Visit &lt;a href=&quot;https://carboncredits.club/&quot;&gt;Carbon Credits&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Remember to visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Remember to visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
@@ -271,7 +809,7 @@ In-dApp pop up wallet. Requires phone number and pin verification.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Squarelink overview:&lt;/strong&gt;
 Squarelink allows you to import all of your blockchain accounts and manage them all through one platform.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
@@ -282,7 +820,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c7505406e3735b30d0ec304fb283a393/8ff1e/simon.png&quot;
+    href=&quot;/static/c7505406e3735b30d0ec304fb283a393/5a190/simon.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -290,23 +828,22 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 64.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAADiUlEQVQ4y33RbUwTdxwH8NYs842JEqD24a53bU/aYm21PYptKVikRelVpJraMoQKWqmlUA56ggriA2J02cjMlmVRw6ZAfCBGzURdTIx0cw+6MJIl+mZZ9mbBvZjLwovC3f32L2HMvfGSb+4h9//c935/SVemSSp5y0FqsWKCVPWiDKKEUFbmnqsxhdT3Za+kpD2w+J6tzf/fIjbTZGSnmhLoXMZmou7Ox439fS9aw0aaaicIVVarU0MuGi0OCJxB0b35UYS9s4wihEb5u+/nVkh/2wxdmSgcf3kIDt4Mga4IIRoctJR6HmHzpAbL6ig1EBrs+huYE0W/dC3NgX0nf2nLQS9Ryz+6v45Cz4/7/6yKO0VFgUxQ4jKhUJYHckW+qCaUPEEqgSRVP7wHt1fYEjUGhCRRGhexpd+VobgRtg2hr7nvW6B35kCMMhJ30fwguKuWZ9mUeLgnLQ4M9AvF64sAJxS/W/aUO+jUjpAt4Q8hzIci/9/wO580XTrx4hA0PKx/KrlZEybXyj8jdRgMDZ1ZmJ2dhWw2C9PT0+Im6wYRw+VgYjYP2tN19ahlL8L2omCLUGx094qlpt8dmz4A3uFqVtpgHqG0+Exu4cZNJmFq6gnMzc3ByMhlUa4s4HNzNLhNJ1ynI/tt8e0pOsmUIXDlcrueix68/XG0xdtd+StZRP6mIVRoRzGg1hHCmrxVqOUgPHv2HCbvT4oURQhotqDC8Ud6xnnWztXtohP+fQjV/+tJu8eCsZ1c1SN72JG1+GkgCKXgYCjB4tRCfn6emE6zMPvqFYyNjomEXi1WtTpEhqsAd73tL8Kga7P3he3WWDW5qJmag40Nn3g/iH3qXgj1V0Jtd4VQtnu9uCNpAGu5RsRxlYip5VDDbAOPxwUbLZjY/HkQ4l81COEhL+zscMHeYSaSsypSnnclXQ90Bwee64G7VzK/76PAQuxCFR+IF/NbW4y8sVTL4wo5T6qVfN7qNbzVLOPjST1vZcy8LVbCR89tzR6ZqIPEBd/T5fkd+abQzU2ah9mrfoG9UgeR89VQy9nAwznAEHGC3mkCg8sExjIz2ggzrE46oHA7ug/RkLoThJaP/VDBblkobnRNaEKOPcswN1Fp6Xnf9WF5l/+Gk2NGS1Oea4Zo5TV7Z+043REYp1OB8dJkYBQ75rulPO57sKHD/0X0IpMJnvI+LKixj1MR508oR/8BcRh/YfQb9L4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 64.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAADiUlEQVQ4y33RbUwTdxwH8NYs842JEqD24a53bU/aYm21PYptKVikRelVpJraMoQKWqmlUA56ggriA2J02cjMlmVRw6ZAfCBGzURdTIx0cw+6MJIl+mZZ9mbBvZjLwovC3f32L2HMvfGSb+4h9//c935/SVemSSp5y0FqsWKCVPWiDKKEUFbmnqsxhdT3Za+kpD2w+J6tzf/fIjbTZGSnmhLoXMZmou7Ox439fS9aw0aaaicIVVarU0MuGi0OCJxB0b35UYS9s4wihEb5u+/nVkh/2wxdmSgcf3kIDt4Mga4IIRoctJR6HmHzpAbL6ig1EBrs+huYE0W/dC3NgX0nf2nLQS9Ryz+6v45Cz4/7/6yKO0VFgUxQ4jKhUJYHckW+qCaUPEEqgSRVP7wHt1fYEjUGhCRRGhexpd+VobgRtg2hr7nvW6B35kCMMhJ30fwguKuWZ9mUeLgnLQ4M9AvF64sAJxS/W/aUO+jUjpAt4Q8hzIci/9/wO580XTrx4hA0PKx/KrlZEybXyj8jdRgMDZ1ZmJ2dhWw2C9PT0+Im6wYRw+VgYjYP2tN19ahlL8L2omCLUGx094qlpt8dmz4A3uFqVtpgHqG0+Exu4cZNJmFq6gnMzc3ByMhlUa4s4HNzNLhNJ1ynI/tt8e0pOsmUIXDlcrueix68/XG0xdtd+StZRP6mIVRoRzGg1hHCmrxVqOUgPHv2HCbvT4oURQhotqDC8Ud6xnnWztXtohP+fQjV/+tJu8eCsZ1c1SN72JG1+GkgCKXgYCjB4tRCfn6emE6zMPvqFYyNjomEXi1WtTpEhqsAd73tL8Kga7P3he3WWDW5qJmag40Nn3g/iH3qXgj1V0Jtd4VQtnu9uCNpAGu5RsRxlYip5VDDbAOPxwUbLZjY/HkQ4l81COEhL+zscMHeYSaSsypSnnclXQ90Bwee64G7VzK/76PAQuxCFR+IF/NbW4y8sVTL4wo5T6qVfN7qNbzVLOPjST1vZcy8LVbCR89tzR6ZqIPEBd/T5fkd+abQzU2ah9mrfoG9UgeR89VQy9nAwznAEHGC3mkCg8sExjIz2ggzrE46oHA7ug/RkLoThJaP/VDBblkobnRNaEKOPcswN1Fp6Xnf9WF5l/+Gk2NGS1Oea4Zo5TV7Z+043REYp1OB8dJkYBQ75rulPO57sKHD/0X0IpMJnvI+LKixj1MR508oR/8BcRh/YfQb9L4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;simon&quot;
         title=&quot;Simon Wildcard&quot;
-        src=&quot;/static/c7505406e3735b30d0ec304fb283a393/b9e4f/simon.png&quot;
-        srcset=&quot;/static/c7505406e3735b30d0ec304fb283a393/cf440/simon.png 148w,
-/static/c7505406e3735b30d0ec304fb283a393/d2d38/simon.png 295w,
-/static/c7505406e3735b30d0ec304fb283a393/b9e4f/simon.png 590w,
-/static/c7505406e3735b30d0ec304fb283a393/8ff1e/simon.png 800w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/c7505406e3735b30d0ec304fb283a393/5a190/simon.png&quot;
+        srcset=&quot;/static/c7505406e3735b30d0ec304fb283a393/63868/simon.png 250w,
+/static/c7505406e3735b30d0ec304fb283a393/0b533/simon.png 500w,
+/static/c7505406e3735b30d0ec304fb283a393/5a190/simon.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -318,7 +855,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0f89d11380e261dddf8ee61ceb565054/8ff1e/vitalik2.png&quot;
+    href=&quot;/static/0f89d11380e261dddf8ee61ceb565054/5a190/vitalik2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -326,35 +863,34 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 76.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADtUlEQVQ4y62SS0wbRxiAFxWR0CZqgALGu+tdP2NTgyF+rQ2OgykY2F0vL1MRnsmmuAbsmqg4xXHIQ0KorUiiVDmkeUDaEKW99NJLozaoUi+tVKmluUXq+9JD2xRUEZX1/J01TpTeO9Kn/9fMzrf/zD+Ec5on1IFjKYZVc+/JfqK2y1Os5gxLVmE+YvUUGEw6wPmPmGcLa0V4Xo3Ek/GUsAQzhGl3TnaZ1Dm9lX0ef7xuMOoAb1QwW3oDrUqz6jqpp54BgihSCi5UEBUVYjnmLCbrGGmpaHpr1I4FMwXZIwzC5NRKsXCD0VMG4qmBHieuhPC4QhumDRNwTvHn/AtDRkanvaIKdYx2G6MK1fyf/E9Y8h1134M9JZaf95bsVvM/dxf/R+jDHMZk8FzQlRQmDLWGX7AULFZjzmRmEa2rQWaLPodlQBuoX0crKyh85PuYB5j8vRL1MaFQKd+SF07xGfdM5KJd8k3jo/2NgaWlt9Ha2j109+4naGXlBrJaTUDjSvdOuGKnO9nPvyL3LAFB5ZtIBGZ3hJ4kT2KpHzdkyJPuie1vsp/SG2m1szmjiUGvpRKwevsW8nJOpDaGZcjfitOcQFxp+4y43B/1TEXaChXuNMU+wdfhCk8ciHfGuWx01uyzn9dRWmAYMqepeQFduLCE1te/BambR1WacjDhRj0Xd35fvtD604FEe9Y9LUTqk3z+Lokvfu/elVgRz/iP83MH08K8fbg1bvNa3tvvMIC5ls1ptVXozge30ebmJrSHQ0hDVgJdTm6XDXs2KhY7vzQnw5cbE7zoTQilajPIxik+lFgWlwfPi9+I5/j7gSP+nLzaD6lPR9D4jW6gGA20tgZBPjaOKJICmiJRyzAF9YMWsKZCfzkWwveCk8KLO+8m2FHadVa4Nr0srsaviQ9j74rfRbMtW9LcIRAvdiBTowEZzTqkpSpR2b59iJMoNHGTRvNfU+jlU0YUTR7cSiwLD1+9LmWePMoTdyKxmffFP7D00eTNno2+2eathlBdju1tUKqpaoXRVCssXaPQ1VplcEGjTN7SKMFRSpFSzUr6Q2k7fpWHgTfb18YudZYRuj7OZhtp+sGdDAGXOATjl3h4aV6ChrEwWI4GwRb1Q53IgT3ig7oIB47eneiVvRDO8nD64yh0L3aAaSQA9iPNHGE+7Cf1Az6Z6uXSbI97rPf1wCuuVOSo97gkN2Qk2Zntk3HXZS9Gje43orInMyAHzkRkV4ofT65Ic/2LbVmqhzvpONa8i/i/x79m6G/+7O7OTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 76.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADtUlEQVQ4y62SS0wbRxiAFxWR0CZqgALGu+tdP2NTgyF+rQ2OgykY2F0vL1MRnsmmuAbsmqg4xXHIQ0KorUiiVDmkeUDaEKW99NJLozaoUi+tVKmluUXq+9JD2xRUEZX1/J01TpTeO9Kn/9fMzrf/zD+Ec5on1IFjKYZVc+/JfqK2y1Os5gxLVmE+YvUUGEw6wPmPmGcLa0V4Xo3Ek/GUsAQzhGl3TnaZ1Dm9lX0ef7xuMOoAb1QwW3oDrUqz6jqpp54BgihSCi5UEBUVYjnmLCbrGGmpaHpr1I4FMwXZIwzC5NRKsXCD0VMG4qmBHieuhPC4QhumDRNwTvHn/AtDRkanvaIKdYx2G6MK1fyf/E9Y8h1134M9JZaf95bsVvM/dxf/R+jDHMZk8FzQlRQmDLWGX7AULFZjzmRmEa2rQWaLPodlQBuoX0crKyh85PuYB5j8vRL1MaFQKd+SF07xGfdM5KJd8k3jo/2NgaWlt9Ha2j109+4naGXlBrJaTUDjSvdOuGKnO9nPvyL3LAFB5ZtIBGZ3hJ4kT2KpHzdkyJPuie1vsp/SG2m1szmjiUGvpRKwevsW8nJOpDaGZcjfitOcQFxp+4y43B/1TEXaChXuNMU+wdfhCk8ciHfGuWx01uyzn9dRWmAYMqepeQFduLCE1te/BambR1WacjDhRj0Xd35fvtD604FEe9Y9LUTqk3z+Lokvfu/elVgRz/iP83MH08K8fbg1bvNa3tvvMIC5ls1ptVXozge30ebmJrSHQ0hDVgJdTm6XDXs2KhY7vzQnw5cbE7zoTQilajPIxik+lFgWlwfPi9+I5/j7gSP+nLzaD6lPR9D4jW6gGA20tgZBPjaOKJICmiJRyzAF9YMWsKZCfzkWwveCk8KLO+8m2FHadVa4Nr0srsaviQ9j74rfRbMtW9LcIRAvdiBTowEZzTqkpSpR2b59iJMoNHGTRvNfU+jlU0YUTR7cSiwLD1+9LmWePMoTdyKxmffFP7D00eTNno2+2eathlBdju1tUKqpaoXRVCssXaPQ1VplcEGjTN7SKMFRSpFSzUr6Q2k7fpWHgTfb18YudZYRuj7OZhtp+sGdDAGXOATjl3h4aV6ChrEwWI4GwRb1Q53IgT3ig7oIB47eneiVvRDO8nD64yh0L3aAaSQA9iPNHGE+7Cf1Az6Z6uXSbI97rPf1wCuuVOSo97gkN2Qk2Zntk3HXZS9Gje43orInMyAHzkRkV4ofT65Ic/2LbVmqhzvpONa8i/i/x79m6G/+7O7OTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Vitalik&quot;
         title=&quot;Vitalik Wildcard&quot;
-        src=&quot;/static/0f89d11380e261dddf8ee61ceb565054/b9e4f/vitalik2.png&quot;
-        srcset=&quot;/static/0f89d11380e261dddf8ee61ceb565054/cf440/vitalik2.png 148w,
-/static/0f89d11380e261dddf8ee61ceb565054/d2d38/vitalik2.png 295w,
-/static/0f89d11380e261dddf8ee61ceb565054/b9e4f/vitalik2.png 590w,
-/static/0f89d11380e261dddf8ee61ceb565054/8ff1e/vitalik2.png 800w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/0f89d11380e261dddf8ee61ceb565054/5a190/vitalik2.png&quot;
+        srcset=&quot;/static/0f89d11380e261dddf8ee61ceb565054/63868/vitalik2.png 250w,
+/static/0f89d11380e261dddf8ee61ceb565054/0b533/vitalik2.png 500w,
+/static/0f89d11380e261dddf8ee61ceb565054/5a190/vitalik2.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile during our hackathon presentation, and that was good enough for us. Rumour has it he is stashing his eth away in anticipation to buy the newly released wildcards and save endangered animals.&lt;/p&gt;
+&lt;p&gt;Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile during our hackathon presentation, and that was good enough for us. Rumour has it he is stashing his eth away in anticipation to buy the newly released wildcards and save at risk animals.&lt;/p&gt;
 &lt;h2&gt;Andy&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/8ff1e/andy.png&quot;
+    href=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/5a190/andy.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -362,23 +898,22 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAADoElEQVQ4y52SbUxbVRjHK3xwQZPFzBTK7fvti6xMWDsGre2a0aa95ZbSFugGg0LlxXYDB+0QZrupsEiibmxmxqhRG4QthJAF3GIWbTe2rrrJJCZDBWdiHNNPgPuwaNLb83huC41+9Ul+ee45J/nlf55zORxcwUTbE5udwHwVvNmmY9clGjKPs1kiMbETU4uxYuTsHgBsHXM0PXT2Awu2eh5m+FjSB6FE+4dHY60qdl+qEDyJBZ+KJURaLOEDC14j3E+z52q/bfvuTkteTvqvdFzM25j7OGESMzK40EELCN40KRexIlbCSpFEKgAWmVrZWxlurMFCAevY02v/j5DEvIHTJfrnvfdP/OR/3dCsuSoo5oGUFDJsKoGQh/iCIiQQ8VJiEQEyjfKXilBdUB2wlWSF2YR5m8LqYKL9XSz7aPBu58etHzjex5LHpFwIPOLZzHVVpUrEslOlSBMEF0RS/rImUOPZ87LdovZTT2Vnl/RlE95oozATfde9X77ybccdRan4ZvGOIthe8DTT2nQIFhe/Q0tL9+DRoz/Rys8r6NSpYSjmc//SdFj9e0NO3a4GfX5GGJj2ZBJGlrqKBpJt51/9vvMsfpCE86QJzF269L7DanhrfAStr6/DysoysIXFaGZmGgh+YaqswRDSRjyq3AzZCs845HSEkndf8d5uPOe46x42/94f88LA1z4UXuxGL15yIm9XEzxcfQgbG+swO3uJnSf7UKnnXbpI1aDLuquluiD3DwUn7Ed879V+QkVqblV69SApEQIVMaLAF81Q6ipDUiUfdPq98ODBb7C2tgZTUxdRYdEO9rH+lrgN7pI+d4XusPWZjEzdQ/c2vOk60RN1zXsi+zfco2bQju1L1yXqQX/GhLjUc6hUUwh19TSsrq7C7TvfwNzcHCrXKtP2QCX0v2P9/MYklZEdCJvzOS1n3PLeyerlobjij8B4BTij9hS14GbMSSejv1zDaIbUjKVVzkhJPtPZ4WNC/X2M0ahlGkJVKX/UkT47aX5876q5OXfdkVn3tqG49Er4Whkcu0BB42cusCzUA7XkAXPUAtbXNGBsLwNZuQJ4imLgkoUgVEmge8wG7VMOkJy3gG5o/y1Zo/Y4eUgnzImPTFhcwTFjwjZgi70QrYubrrvmtYO2WPVp07z+uDW++yU6VnnUEa/ClPvpWO1JOt4yTv9aEDZcEx7Q/ig7qP2BbNLVcnyjfZz/W75z9Da2G0ZN+Vt7/wAiQaFt0XLQjQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 71.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAADoElEQVQ4y52SbUxbVRjHK3xwQZPFzBTK7fvti6xMWDsGre2a0aa95ZbSFugGg0LlxXYDB+0QZrupsEiibmxmxqhRG4QthJAF3GIWbTe2rrrJJCZDBWdiHNNPgPuwaNLb83huC41+9Ul+ee45J/nlf55zORxcwUTbE5udwHwVvNmmY9clGjKPs1kiMbETU4uxYuTsHgBsHXM0PXT2Awu2eh5m+FjSB6FE+4dHY60qdl+qEDyJBZ+KJURaLOEDC14j3E+z52q/bfvuTkteTvqvdFzM25j7OGESMzK40EELCN40KRexIlbCSpFEKgAWmVrZWxlurMFCAevY02v/j5DEvIHTJfrnvfdP/OR/3dCsuSoo5oGUFDJsKoGQh/iCIiQQ8VJiEQEyjfKXilBdUB2wlWSF2YR5m8LqYKL9XSz7aPBu58etHzjex5LHpFwIPOLZzHVVpUrEslOlSBMEF0RS/rImUOPZ87LdovZTT2Vnl/RlE95oozATfde9X77ybccdRan4ZvGOIthe8DTT2nQIFhe/Q0tL9+DRoz/Rys8r6NSpYSjmc//SdFj9e0NO3a4GfX5GGJj2ZBJGlrqKBpJt51/9vvMsfpCE86QJzF269L7DanhrfAStr6/DysoysIXFaGZmGgh+YaqswRDSRjyq3AzZCs845HSEkndf8d5uPOe46x42/94f88LA1z4UXuxGL15yIm9XEzxcfQgbG+swO3uJnSf7UKnnXbpI1aDLuquluiD3DwUn7Ed879V+QkVqblV69SApEQIVMaLAF81Q6ipDUiUfdPq98ODBb7C2tgZTUxdRYdEO9rH+lrgN7pI+d4XusPWZjEzdQ/c2vOk60RN1zXsi+zfco2bQju1L1yXqQX/GhLjUc6hUUwh19TSsrq7C7TvfwNzcHCrXKtP2QCX0v2P9/MYklZEdCJvzOS1n3PLeyerlobjij8B4BTij9hS14GbMSSejv1zDaIbUjKVVzkhJPtPZ4WNC/X2M0ahlGkJVKX/UkT47aX5876q5OXfdkVn3tqG49Er4Whkcu0BB42cusCzUA7XkAXPUAtbXNGBsLwNZuQJ4imLgkoUgVEmge8wG7VMOkJy3gG5o/y1Zo/Y4eUgnzImPTFhcwTFjwjZgi70QrYubrrvmtYO2WPVp07z+uDW++yU6VnnUEa/ClPvpWO1JOt4yTv9aEDZcEx7Q/ig7qP2BbNLVcnyjfZz/W75z9Da2G0ZN+Vt7/wAiQaFt0XLQjQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Andy&quot;
         title=&quot;Andy Wildcard&quot;
-        src=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/b9e4f/andy.png&quot;
-        srcset=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/cf440/andy.png 148w,
-/static/f1a61867cafbbf02d5304e05c7017bb8/d2d38/andy.png 295w,
-/static/f1a61867cafbbf02d5304e05c7017bb8/b9e4f/andy.png 590w,
-/static/f1a61867cafbbf02d5304e05c7017bb8/8ff1e/andy.png 800w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/5a190/andy.png&quot;
+        srcset=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/63868/andy.png 250w,
+/static/f1a61867cafbbf02d5304e05c7017bb8/0b533/andy.png 500w,
+/static/f1a61867cafbbf02d5304e05c7017bb8/5a190/andy.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -386,7 +921,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;It was 4 am on Sunday, and before we collapsed on mattresses at the hackathon hall, we found Andy “CryptoWanderer” Tudhope reading some profound book. Andy encouraged us to attend ETHIndia (which turned out to be an amazing experience).&lt;/p&gt;
-&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, and buy a Simon, Vitalik and Andy, and start contributing toward endangered animal conservation today!&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, and buy a Simon, Vitalik and Andy, and start contributing toward at risk animal conservation today!&lt;/p&gt;
 &lt;p&gt;Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
@@ -394,12 +929,12 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;&lt;img src=&quot;/55b1e489873ad2174c5459e1b6f1e3dc/thuggorilla.gif&quot; alt=&quot;thuglife&quot; title=&quot;Thuglife harberger tax&quot;&gt;&lt;/p&gt;
 &lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
 &lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[EthCapeTown (Wildcards is born) - The hackathon to start up experience]]></title><description><![CDATA[What it’s like to attend a hackathon like EthCapeTown Armed to the teeth with brains and Jon Jon, the wildcards team attended EthCapeTown…]]></description><link>https://blog.wildcards.world/ethcapetown/</link><guid isPermaLink="false">https://blog.wildcards.world/ethcapetown/</guid><pubDate>Mon, 14 Oct 2019 10:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;What it’s like to attend a hackathon like EthCapeTown&lt;/h1&gt;
-&lt;p&gt;Armed to the teeth with brains and Jon Jon, the wildcards team attended &lt;a href=&quot;https://ethcapetown.com&quot;&gt;EthCapeTown&lt;/a&gt;. Of course, at this point, we were merely good friends from University. Unknowingly about to fall upon a revolutionary conservation funding model. A self-regulated open market place leveraging Harberger Tax and incentives to create a new conservation patronage asset class. &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;The team, 4 developers strong, passionate about our planet, embarked on 48 hours of non-stop hacking. 9 hours in, at 3 am on Saturday morning, we weren’t a line of code in. Still in debate on what we were buidling. On the fence between a crowdfunding student education app and a gambling app with a simple but difficult to implement mechanic. The team retreated to our closest home and had a deep sleep on slightly too short couches. &lt;/p&gt;
+&lt;p&gt;Armed to the teeth with brains and Jon Jon, the wildcards team attended &lt;a href=&quot;https://ethcapetown.com&quot;&gt;EthCapeTown&lt;/a&gt;. Of course, at this point, we were merely good friends from University. Unknowingly about to fall upon a revolutionary conservation funding model. A self-regulated open market place leveraging Harberger Tax and incentives to create a new conservation patronage asset class. &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The team, 4 developers strong, passionate about our planet, embarked on 48 hours of non-stop hacking. 9 hours in, at 3 am on Saturday morning, we weren’t a line of code in. Still in debate on what we were buidling. On the fence between a crowdfunding student education app and a gambling app with a simple but difficult to implement mechanic. The team retreated to our closest home and had a deep sleep on slightly too short couches.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/8f868/hacker.jpg&quot;
+    href=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/768c6/hacker.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -407,36 +942,36 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAVm9eqikkl//xAAbEAACAQUAAAAAAAAAAAAAAAABAhIDECEiMv/aAAgBAQABBQJRGz9sMpSkGG3/xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwFGf//EABYRAAMAAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwENP//EABkQAAIDAQAAAAAAAAAAAAAAAAABECEyMf/aAAgBAQAGPwK+wy9GmM//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMVFhgdH/2gAIAQEAAT8hayfQU1yNEGxUVkyedDqtn//aAAwDAQACAAMAAAAQdC//xAAVEQEBAAAAAAAAAAAAAAAAAAAhEP/aAAgBAwEBPxBCf//EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/EIlY9P/EABwQAQEAAQUBAAAAAAAAAAAAAAERACExQVFx0f/aAAgBAQABPxBUUW07Xv5glTlresYKQwpREkNPfcFUCMSMemqrP//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAVm9eqikkl//xAAbEAACAQUAAAAAAAAAAAAAAAABAhIDECEiMv/aAAgBAQABBQJRGz9sMpSkGG3/xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwFGf//EABYRAAMAAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwENP//EABkQAAIDAQAAAAAAAAAAAAAAAAABECEyMf/aAAgBAQAGPwK+wy9GmM//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMVFhgdH/2gAIAQEAAT8hayfQU1yNEGxUVkyedDqtn//aAAwDAQACAAMAAAAQdC//xAAVEQEBAAAAAAAAAAAAAAAAAAAhEP/aAAgBAwEBPxBCf//EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/EIlY9P/EABwQAQEAAQUBAAAAAAAAAAAAAAERACExQVFx0f/aAAgBAQABPxBUUW07Xv5glTlresYKQwpREkNPfcFUCMSMemqrP//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Denham Preen Hacker&quot;
         title=&quot;Wildcards Hackers Denham Preen EthCapeTown 2019&quot;
-        src=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/c739e/hacker.jpg&quot;
-        srcset=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/8ee9c/hacker.jpg 148w,
-/static/863e85ba47865d7fdc378b2d5979a6fd/ebbe7/hacker.jpg 295w,
-/static/863e85ba47865d7fdc378b2d5979a6fd/c739e/hacker.jpg 590w,
-/static/863e85ba47865d7fdc378b2d5979a6fd/5413e/hacker.jpg 885w,
-/static/863e85ba47865d7fdc378b2d5979a6fd/4efde/hacker.jpg 1180w,
-/static/863e85ba47865d7fdc378b2d5979a6fd/8f868/hacker.jpg 3264w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/a2510/hacker.jpg&quot;
+        srcset=&quot;/static/863e85ba47865d7fdc378b2d5979a6fd/0479a/hacker.jpg 250w,
+/static/863e85ba47865d7fdc378b2d5979a6fd/41099/hacker.jpg 500w,
+/static/863e85ba47865d7fdc378b2d5979a6fd/a2510/hacker.jpg 1000w,
+/static/863e85ba47865d7fdc378b2d5979a6fd/c58a3/hacker.jpg 1500w,
+/static/863e85ba47865d7fdc378b2d5979a6fd/3acf0/hacker.jpg 2000w,
+/static/863e85ba47865d7fdc378b2d5979a6fd/768c6/hacker.jpg 3264w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;9 am sharp! we were outside the most luxury line of Cape Town’s finest food trucks. EthCapeTown spoiling its hackers with an all you can eat buffet of food trucks. We eat our burritos, boerie rolls and sushi on the balcony looking over the crystal clear icy cold waters of the Atlantic ocean while table mountain sits pretty behind us. &lt;/p&gt;
+&lt;p&gt;9 am sharp! we were outside the most luxury line of Cape Town’s finest food trucks. EthCapeTown spoiling its hackers with an all you can eat buffet of food trucks. We eat our burritos, boerie rolls and sushi on the balcony looking over the crystal clear icy cold waters of the Atlantic ocean while table mountain sits pretty behind us.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9823508e7c8404aff51bf9c960b57887/b0f63/foodtrucks.jpg&quot;
+    href=&quot;/static/9823508e7c8404aff51bf9c960b57887/9cd6c/foodtrucks.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -444,38 +979,38 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.19946091644204%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFXSw5ihL//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQISEwP/2gAIAQEAAQUCXaVNWOcyqxGf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAEDAQE/AYy//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oACAECAQE/AbWn/8QAGRABAAIDAAAAAAAAAAAAAAAAEQAQITFB/9oACAEBAAY/AnVdiZL/AP/EAB0QAQABAwUAAAAAAAAAAAAAAAEAESFBMVFhocH/2gAIAQEAAT8hwpDp7B+U7lRYg3wuYFCmIrz/2gAMAwEAAgADAAAAENPf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EANi/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKxt/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBUXGh/9oACAEBAAE/EAhZXyHhl2Vhe891ObZ9r8qcRfWMCngwLiD1n//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFXSw5ihL//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQISEwP/2gAIAQEAAQUCXaVNWOcyqxGf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAEDAQE/AYy//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oACAECAQE/AbWn/8QAGRABAAIDAAAAAAAAAAAAAAAAEQAQITFB/9oACAEBAAY/AnVdiZL/AP/EAB0QAQABAwUAAAAAAAAAAAAAAAEAESFBMVFhocH/2gAIAQEAAT8hwpDp7B+U7lRYg3wuYFCmIrz/2gAMAwEAAgADAAAAENPf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EANi/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKxt/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBUXGh/9oACAEBAAE/EAhZXyHhl2Vhe891ObZ9r8qcRfWMCngwLiD1n//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Food trucks&quot;
         title=&quot;Food Trucks EthCapeTown 2019&quot;
-        src=&quot;/static/9823508e7c8404aff51bf9c960b57887/c739e/foodtrucks.jpg&quot;
-        srcset=&quot;/static/9823508e7c8404aff51bf9c960b57887/8ee9c/foodtrucks.jpg 148w,
-/static/9823508e7c8404aff51bf9c960b57887/ebbe7/foodtrucks.jpg 295w,
-/static/9823508e7c8404aff51bf9c960b57887/c739e/foodtrucks.jpg 590w,
-/static/9823508e7c8404aff51bf9c960b57887/5413e/foodtrucks.jpg 885w,
-/static/9823508e7c8404aff51bf9c960b57887/4efde/foodtrucks.jpg 1180w,
-/static/9823508e7c8404aff51bf9c960b57887/b0f63/foodtrucks.jpg 2968w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/9823508e7c8404aff51bf9c960b57887/a2510/foodtrucks.jpg&quot;
+        srcset=&quot;/static/9823508e7c8404aff51bf9c960b57887/0479a/foodtrucks.jpg 250w,
+/static/9823508e7c8404aff51bf9c960b57887/41099/foodtrucks.jpg 500w,
+/static/9823508e7c8404aff51bf9c960b57887/a2510/foodtrucks.jpg 1000w,
+/static/9823508e7c8404aff51bf9c960b57887/c58a3/foodtrucks.jpg 1500w,
+/static/9823508e7c8404aff51bf9c960b57887/3acf0/foodtrucks.jpg 2000w,
+/static/9823508e7c8404aff51bf9c960b57887/9cd6c/foodtrucks.jpg 2968w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;We start coding, stop coding, scrap that code. 3 pm we starting thinking about conservation tokens, precisely somewhere around 2 minutes later, Jon Jon comes up with the idea to marry conservation tokens and always for sale. Inspired by Simon de la Rouviere’s &lt;a href=&quot;https://thisartworkisalwaysonsale.com/&quot;&gt;This Artwork is Always on Sale&lt;/a&gt; and Glen Weyl and Eric Posner’s &lt;a href=&quot;http://radicalmarkets.com/&quot;&gt;Radical Markets&lt;/a&gt;. We’ve got it! &lt;/p&gt;
-&lt;p&gt;We start coding again. Renewed energy, we have this! We help ourselves to more free food and refreshments, organic energy drinks and kombucha. We code, we think, we talk, we get mentored by the network of incredible mentors and we code some more. Around midnight we are treated to &lt;a href=&quot;https://www.facebook.com/larozell/&quot;&gt;authentic crêpes&lt;/a&gt;. The team is squinting into our computers by 4:30 am. There are still 50 or so, out of the 190 hackers suited in hoodies and headphones hacking around us, some sleeping at the table. We retreat to one of the previous talk venues to where mattresses have been laid out. We cross Andy Tudhope, one of EthCapeTown’s Judges from &lt;a href=&quot;https://status.im/&quot;&gt;Status&lt;/a&gt;, reading his book. We “team sleep” for 2 hours and wake up back to our computers where the sun is rising through the glass ocean-facing wall. &lt;/p&gt;
-&lt;p&gt;At some point, Vitalik nonchalantly arrives and sits at one of the desks at his Thinkpad. EthCapeTown is waking up again and the food trucks open their flaps. We are frantically coding trying to build a working product. We deploy to the testnet, we spruce up the front end and with 3min to go, we make a video demo to explain what we built. We are finished, physically too, the hacking is over, its time for presentations.   &lt;/p&gt;
+&lt;p&gt;We start coding, stop coding, scrap that code. 3 pm we starting thinking about conservation tokens, precisely somewhere around 2 minutes later, Jon Jon comes up with the idea to marry conservation tokens and always for sale. Inspired by Simon de la Rouviere’s &lt;a href=&quot;https://thisartworkisalwaysonsale.com/&quot;&gt;This Artwork is Always on Sale&lt;/a&gt; and Glen Weyl and Eric Posner’s &lt;a href=&quot;http://radicalmarkets.com/&quot;&gt;Radical Markets&lt;/a&gt;. We’ve got it!&lt;/p&gt;
+&lt;p&gt;We start coding again. Renewed energy, we have this! We help ourselves to more free food and refreshments, organic energy drinks and kombucha. We code, we think, we talk, we get mentored by the network of incredible mentors and we code some more. Around midnight we are treated to &lt;a href=&quot;https://www.facebook.com/larozell/&quot;&gt;authentic crêpes&lt;/a&gt;. The team is squinting into our computers by 4:30 am. There are still 50 or so, out of the 190 hackers suited in hoodies and headphones hacking around us, some sleeping at the table. We retreat to one of the previous talk venues to where mattresses have been laid out. We cross Andy Tudhope, one of EthCapeTown’s Judges from &lt;a href=&quot;https://status.im/&quot;&gt;Status&lt;/a&gt;, reading his book. We “team sleep” for 2 hours and wake up back to our computers where the sun is rising through the glass ocean-facing wall.&lt;/p&gt;
+&lt;p&gt;At some point, Vitalik nonchalantly arrives and sits at one of the desks at his Thinkpad. EthCapeTown is waking up again and the food trucks open their flaps. We are frantically coding trying to build a working product. We deploy to the testnet, we spruce up the front end and with 3min to go, we make a video demo to explain what we built. We are finished, physically too, the hacking is over, its time for presentations.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3e5b82c810263fb074dc850ac45363f5/e2288/ethcapetown.jpg&quot;
+    href=&quot;/static/3e5b82c810263fb074dc850ac45363f5/c08c5/ethcapetown.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -483,7 +1018,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 640px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -494,41 +1029,27 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Winners&quot;
         title=&quot;Wildcards are winners of EthCapeTown 2019&quot;
-        src=&quot;/static/3e5b82c810263fb074dc850ac45363f5/c739e/ethcapetown.jpg&quot;
-        srcset=&quot;/static/3e5b82c810263fb074dc850ac45363f5/8ee9c/ethcapetown.jpg 148w,
-/static/3e5b82c810263fb074dc850ac45363f5/ebbe7/ethcapetown.jpg 295w,
-/static/3e5b82c810263fb074dc850ac45363f5/c739e/ethcapetown.jpg 590w,
-/static/3e5b82c810263fb074dc850ac45363f5/e2288/ethcapetown.jpg 640w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/3e5b82c810263fb074dc850ac45363f5/c08c5/ethcapetown.jpg&quot;
+        srcset=&quot;/static/3e5b82c810263fb074dc850ac45363f5/0479a/ethcapetown.jpg 250w,
+/static/3e5b82c810263fb074dc850ac45363f5/41099/ethcapetown.jpg 500w,
+/static/3e5b82c810263fb074dc850ac45363f5/c08c5/ethcapetown.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;We watch the other awesome projects present through fuzzy brains. We then present ourselves. Exhausted, we treat ourselves to a beer and get ready for the after-party at The Grand. We are super proud to have been winners and thankful to &lt;a href=&quot;https://ethglobal.co/&quot;&gt;EthGlobal&lt;/a&gt;, &lt;a href=&quot;https://linumlabs.com/&quot;&gt;Linum Labs&lt;/a&gt; and &lt;a href=&quot;https://www.nucypher.com/&quot;&gt;NuCypher&lt;/a&gt; for getting the chance to partake in such an awesome event and prizes. &lt;/p&gt;
+&lt;p&gt;We watch the other awesome projects present through fuzzy brains. We then present ourselves. Exhausted, we treat ourselves to a beer and get ready for the after-party at The Grand. We are super proud to have been winners and thankful to &lt;a href=&quot;https://ethglobal.co/&quot;&gt;EthGlobal&lt;/a&gt;, &lt;a href=&quot;https://linumlabs.com/&quot;&gt;Linum Labs&lt;/a&gt; and &lt;a href=&quot;https://www.nucypher.com/&quot;&gt;NuCypher&lt;/a&gt; for getting the chance to partake in such an awesome event and prizes.&lt;/p&gt;
 &lt;p&gt;Check out the video demo below of all the winners of EthCapeTown and their projects.&lt;/p&gt;
-&lt;p&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div&gt;&lt;iframe src=&quot;https://youtube.com/embed/YTso8-cqSN8?t=226&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;/p&gt;
-&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, buy a wildcard, and start contributing toward endangered animal conservation.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div&gt;&lt;iframe src=&quot;https://youtube.com/embed/YTso8-cqSN8?t=226&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, buy a wildcard, and start contributing toward at risk animal conservation.&lt;/p&gt;
 &lt;p&gt;Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to wildcards]]></title><description><![CDATA[Welcome to the world of wildcards! What on earth is wildcards?! It’s a project started by friends to help generate sustainable and…]]></description><link>https://blog.wildcards.world/welcome-to-wildcards/</link><guid isPermaLink="false">https://blog.wildcards.world/welcome-to-wildcards/</guid><pubDate>Fri, 09 Aug 2019 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the world of wildcards! What on earth is wildcards?!&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;It’s a project started by friends to help generate sustainable and meaningful contributions toward endangered animal conservation.&lt;/p&gt;
+&lt;p&gt;It’s a project started by friends to help generate sustainable and meaningful contributions toward at risk animal conservation.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;So let’s quickly go through some of the main questions you may have right now…&lt;/p&gt;
 &lt;h2&gt;How it started?&lt;/h2&gt;
@@ -536,7 +1057,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/ce794/vitalik.jpg&quot;
+    href=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/c0b59/vitalik.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -544,25 +1065,23 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.62726008344924%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAdjmzFkOL//EABoQAAIDAQEAAAAAAAAAAAAAAAEDAAIhEzH/2gAIAQEAAQUCOMLQD2EY20Gy3v8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AbWv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABsQAQAABwAAAAAAAAAAAAAAAAABEBEhMUGR/9oACAEBAAY/Am2VuoVl/8QAHBAAAgEFAQAAAAAAAAAAAAAAAREAECExQVFh/9oACAEBAAE/IbAMprMJBpTW4JHPTlphLz7ADjQ7P//aAAwDAQACAAMAAAAQzy//xAAXEQEAAwAAAAAAAAAAAAAAAAAAASFB/9oACAEDAQE/EI8Wf//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QWyQ//8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFRQYGRodH/2gAIAQEAAT8QvZ+W044mRuhuwo78fONOvjc+nFM6kvZia4VV32F6yTDVCq8/uf/Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 71.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAdjmzFkOL//EABoQAAIDAQEAAAAAAAAAAAAAAAEDAAIhEzH/2gAIAQEAAQUCOMLQD2EY20Gy3v8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AbWv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABsQAQAABwAAAAAAAAAAAAAAAAABEBEhMUGR/9oACAEBAAY/Am2VuoVl/8QAHBAAAgEFAQAAAAAAAAAAAAAAAREAECExQVFh/9oACAEBAAE/IbAMprMJBpTW4JHPTlphLz7ADjQ7P//aAAwDAQACAAMAAAAQzy//xAAXEQEAAwAAAAAAAAAAAAAAAAAAASFB/9oACAEDAQE/EI8Wf//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QWyQ//8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFRQYGRodH/2gAIAQEAAT8QvZ+W044mRuhuwo78fONOvjc+nFM6kvZia4VV32F6yTDVCq8/uf/Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;EthCapeTown with Vitalik Buterin&quot;
         title=&quot;Team wildcards at the #ETHCapeTown2019 hackathon with Vitalik Buterin&quot;
-        src=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/c739e/vitalik.jpg&quot;
-        srcset=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/8ee9c/vitalik.jpg 148w,
-/static/de9611ecca11f344c89cb0caca6ec4c8/ebbe7/vitalik.jpg 295w,
-/static/de9611ecca11f344c89cb0caca6ec4c8/c739e/vitalik.jpg 590w,
-/static/de9611ecca11f344c89cb0caca6ec4c8/5413e/vitalik.jpg 885w,
-/static/de9611ecca11f344c89cb0caca6ec4c8/4efde/vitalik.jpg 1180w,
-/static/de9611ecca11f344c89cb0caca6ec4c8/ce794/vitalik.jpg 1438w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/a2510/vitalik.jpg&quot;
+        srcset=&quot;/static/de9611ecca11f344c89cb0caca6ec4c8/0479a/vitalik.jpg 250w,
+/static/de9611ecca11f344c89cb0caca6ec4c8/41099/vitalik.jpg 500w,
+/static/de9611ecca11f344c89cb0caca6ec4c8/a2510/vitalik.jpg 1000w,
+/static/de9611ecca11f344c89cb0caca6ec4c8/c0b59/vitalik.jpg 1438w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -574,7 +1093,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/971c4/ethindia.jpg&quot;
+    href=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/a2510/ethindia.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -582,24 +1101,22 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 1000px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAZzuu8Tx0y//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQMREgIh/9oACAEBAAEFAufXWROyOJCWDETP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhAAAgEDBQAAAAAAAAAAAAAAABEBAiFBIjEyUcH/2gAIAQEABj8C6g0tGBTt6KmbPJxP/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFRgf/aAAgBAQABPyFN+jwTM6q5RqW/RjbtWLuCT0ASCsH/2gAMAwEAAgADAAAAEL//AP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCMf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBwJ//EABwQAQEAAgIDAAAAAAAAAAAAAAERAEEhMVGx8f/aAAgBAQABPxCMBmcr9wZVBn3g11e6rkq8tCDZfHfGFGI2FdamPRoJwd5//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAZzuu8Tx0y//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQMREgIh/9oACAEBAAEFAufXWROyOJCWDETP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhAAAgEDBQAAAAAAAAAAAAAAABEBAiFBIjEyUcH/2gAIAQEABj8C6g0tGBTt6KmbPJxP/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFRgf/aAAgBAQABPyFN+jwTM6q5RqW/RjbtWLuCT0ASCsH/2gAMAwEAAgADAAAAEL//AP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCMf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBwJ//EABwQAQEAAgIDAAAAAAAAAAAAAAERAEEhMVGx8f/aAAgBAQABPxCMBmcr9wZVBn3g11e6rkq8tCDZfHfGFGI2FdamPRoJwd5//9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;EthIndia&quot;
         title=&quot;Team wildcards at the #ETHIndia2019 hackathon&quot;
-        src=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/c739e/ethindia.jpg&quot;
-        srcset=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/8ee9c/ethindia.jpg 148w,
-/static/abf2afd7eb090fa3a79d6925533bf1dc/ebbe7/ethindia.jpg 295w,
-/static/abf2afd7eb090fa3a79d6925533bf1dc/c739e/ethindia.jpg 590w,
-/static/abf2afd7eb090fa3a79d6925533bf1dc/5413e/ethindia.jpg 885w,
-/static/abf2afd7eb090fa3a79d6925533bf1dc/971c4/ethindia.jpg 1000w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/a2510/ethindia.jpg&quot;
+        srcset=&quot;/static/abf2afd7eb090fa3a79d6925533bf1dc/0479a/ethindia.jpg 250w,
+/static/abf2afd7eb090fa3a79d6925533bf1dc/41099/ethindia.jpg 500w,
+/static/abf2afd7eb090fa3a79d6925533bf1dc/a2510/ethindia.jpg 1000w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -612,7 +1129,7 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/135ae/vitalik.png&quot;
+    href=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/5a46d/vitalik.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -631,10 +1148,9 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Vitalik&quot;
         title=&quot;Vitalik Wildcard&quot;
-        src=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/135ae/vitalik.png&quot;
-        srcset=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/cf440/vitalik.png 148w,
-/static/fd5aa009bae0e3fac75eefab1f7cec5f/d2d38/vitalik.png 295w,
-/static/fd5aa009bae0e3fac75eefab1f7cec5f/135ae/vitalik.png 300w&quot;
+        src=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/5a46d/vitalik.png&quot;
+        srcset=&quot;/static/fd5aa009bae0e3fac75eefab1f7cec5f/63868/vitalik.png 250w,
+/static/fd5aa009bae0e3fac75eefab1f7cec5f/5a46d/vitalik.png 300w&quot;
         sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
       /&gt;
     &lt;/span&gt;
@@ -643,26 +1159,13 @@ Squarelink allows you to import all of your blockchain accounts and manage them 
   &lt;/a&gt;
     
 &lt;sup&gt;Example of wildcard (Vitalik)&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Every wildcard represents an endangered animal, with funds generated from this wildcard flowing toward the conservation organisation representing and protecting that animal.&lt;/p&gt;
+&lt;p&gt;Every wildcard represents an at risk animal, with funds generated from this wildcard flowing toward the conservation organisation representing and protecting that animal.&lt;/p&gt;
 &lt;p&gt;Wildcards can easily be bought by anyone at anytime. Hence, we say that our wildcards are ‘always for sale’.&lt;/p&gt;
 &lt;h2&gt;How are wildcards always for sale?&lt;/h2&gt;
 &lt;p&gt;This is what is actually super cool and unique about wildcards. We have leveraged an idea from a book called ‘radical markets’, that proposes a fascinating ‘always for sale mechanism’.&lt;/p&gt;
 &lt;p&gt;In a nutshell, whenever someone buys a wildcard, they are immediately required to set a selling price for that wildcard. Therefore, the wildcard can at anytime be bought for that selling price, and is ‘always for sale’. The interesting economic dynamic is that the owner of the wildcard pays a percentage based fee on the selling price they set (known as harberger tax).
 If you are lost… don’t worry — we made this cool little video which should hopefully explain it a bit better :)&lt;/p&gt;
-&lt;p&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/63qtVVmcpmU&quot; style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/63qtVVmcpmU&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
 &lt;h2&gt;Why are we in Paris?&lt;/h2&gt;
 &lt;p&gt;Our team was selected to be part of Ubisoft Entrepreneurs lab in Station F, Paris. See below…&lt;/p&gt;
 &lt;blockquote&gt;
@@ -672,7 +1175,7 @@ If you are lost… don’t worry — we made this cool little video which should
 &lt;p&gt;Shhhh… we have partnered with an amazing conservation organisation that will help distribute funds generated from this project. More details to follow soon!
 More good news! We are going to release a bunch of new wildcards next week — and more and more over the coming weeks and months during our time in Paris!&lt;/p&gt;
 &lt;h2&gt;How can I get involved?&lt;/h2&gt;
-&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, buy a wildcard, and start contributing toward endangered animal conservation.&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, buy a wildcard, and start contributing toward at risk animal conservation.&lt;/p&gt;
 &lt;p&gt;Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
 &lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
