@@ -46,7 +46,7 @@ Remember to visit our website [Wildcards](https://wildcards.world) where you can
 
 Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcards.conservation)
 
 Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
 

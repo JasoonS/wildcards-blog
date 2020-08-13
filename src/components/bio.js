@@ -50,7 +50,10 @@ function Bio({ postAuthor }) {
                 <br />
                 You can connect with me via{" "}
                 <a href={`https://twitter.com/${twitter}`}>Twitter</a> or{" "}
-                <a href={`https://facebook.com/wildcardscrypto`}>Facebook</a>.
+                <a href={`https://facebook.com/wildcards.conservation`}>
+                  Facebook
+                </a>
+                .
               </p>
             </div>
           </div>

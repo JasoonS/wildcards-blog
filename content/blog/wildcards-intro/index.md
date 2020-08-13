@@ -56,6 +56,6 @@ With the world all but turned on its head and looking for fresh ways to reinvent
 
 Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcards.conservation)
 
 Join us on Telegram: [Telegram](https://t.me/wildcardsworld)

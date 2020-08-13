@@ -38,6 +38,6 @@ Follow our socials to learn more about our project and the conservation causes w
 
 Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcards.conservation)
 
 Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)

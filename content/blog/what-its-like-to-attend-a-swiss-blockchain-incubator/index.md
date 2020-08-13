@@ -55,6 +55,6 @@ At the end of the program, you come out with a killer pitch, a rock-solid busine
 
 Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcards.conservation)
 
 Join Wildcards on Telegram: [Telegram](https://t.me/wildcardsworld)
